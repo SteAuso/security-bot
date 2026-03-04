@@ -30,7 +30,7 @@ def main():
             print(f"Nuova news: {entry.title}")
             
             # Invia a Discord
-            message = f"**{entry.title}**\n\n{link}"
+            message = f"**{entry.title}**\n{entry.description}\n\nCountry: {entry.category}\n\n{link}"
             requests.post(WEBHOOK_URL, json={"content": message})
             
             # Aggiungi alla cronologia
