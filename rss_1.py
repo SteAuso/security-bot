@@ -5,7 +5,7 @@ import os
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 RSS_URL = "https://www.ransomware.live/rss.xml"
 FILE_HISTORY = "history.txt"
-LIMIT = 200
+LIMIT = 60
 
 def main():
     feed = feedparser.parse(RSS_URL)
