@@ -25,7 +25,7 @@ jobs:
       - name: Esegui lo script
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        run: python bot.py
+        run: python rss_1.py
 
       - name: Salva cronologia
         run: |
