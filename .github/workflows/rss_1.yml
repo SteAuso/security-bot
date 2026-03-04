@@ -2,7 +2,7 @@ name: Monitor Ransomware Feed
 
 on:
   schedule:
-    - cron: '1,2,3 * * * *' # Gira ogni 30 minuti
+    - cron: '*/15 * * * *' # Gira ogni 30 minuti
   workflow_dispatch: # Questo ti permette di farlo partire a mano per testare
 
 jobs:
