@@ -27,7 +27,7 @@ def main():
             print(f"Nuova news: {entry.title}")
             
             message = f"**{entry.title}**\n{entry.description}\n\\n\n{link}"
-            requests.post(WEBHOOK_URL, json={"content": message})
+            requests.post(WEBHOOK_URL_2, json={"content": message})
             
             history.append(link)
             nuovi_inviati = True
