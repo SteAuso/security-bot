@@ -1,0 +1,10 @@
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-vmware-3
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-django-4
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-19
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-39
+https://www.acn.gov.it/portale/w/rilevato-sfruttamento-attivo-di-vulnerabilita-in-prodotti-cisco-1
+https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-watchguard-2
+https://www.acn.gov.it/portale/w/aggiornamento-di-sicurezza-per-dispositivi-google-pixel-2
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-ruby
+https://www.acn.gov.it/portale/w/tenable-risolta-vulnerabilita-in-nessus-manager
+https://www.acn.gov.it/portale/w/rilevata-campagna-di-phishing-a-tema-festa-della-donna-
