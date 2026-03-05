@@ -2,10 +2,10 @@ import feedparser
 import requests
 import os
 
-WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
-RSS_URL = "https://www.ransomware.live/rss.xml"
-FILE_HISTORY = "history.txt"
-LIMIT = 200
+WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_2")
+RSS_URL = "https://www.acn.gov.it/portale/feedrss/-/journal/rss/20119/723192"
+FILE_HISTORY = "history_2.txt"
+LIMIT = 100
 
 def main():
     feed = feedparser.parse(RSS_URL)
