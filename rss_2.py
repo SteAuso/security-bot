@@ -5,7 +5,7 @@ import os
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_2")
 RSS_URL = "https://www.acn.gov.it/portale/feedrss/-/journal/rss/20119/723192"
 FILE_HISTORY = "history_2.txt"
-LIMIT = 10
+LIMIT = 100
 
 def main():
     feed = feedparser.parse(RSS_URL)
