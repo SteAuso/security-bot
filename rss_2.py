@@ -5,7 +5,7 @@ import os
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_2")
 RSS_URL = "https://www.acn.gov.it/portale/feedrss/-/journal/rss/20119/723192"
 FILE_HISTORY = "history_2.txt"
-LIMIT = 100
+LIMIT = 10
 
 def main():
     feed = feedparser.parse(RSS_URL)
@@ -26,7 +26,7 @@ def main():
         if link not in history:
             print(f"Nuova news: {entry.title}")
             
-            message = f"**{entry.title}**\n{entry.description}\n\Publication date: {entry.pubDate}\n\n{link}"
+            message = f"**{entry.title}**\n{entry.description}\n\\n\n{link}"
             requests.post(WEBHOOK_URL, json={"content": message})
             
             history.append(link)
