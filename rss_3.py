@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+import re
 
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 CHANNEL_URL = "https://t.me/s/certagid"
@@ -21,7 +22,7 @@ def get_latest_post():
         text_area = last_msg.find('div', class_='tgme_widget_message_text')
         if not text_area: return None
 
-        # 1. Recupero il link AgID se presente (cercandolo tra i tag <a>)
+        # 1. Recupero link AgID
         agid_link = ""
         for a in text_area.find_all('a'):
             href = a.get('href', '')
@@ -29,17 +30,28 @@ def get_latest_post():
                 agid_link = href
                 break
 
-        # 2. ESTRAZIONE TESTO (Il Segreto è qui: niente separator)
-        # Togliendo separator="\n", BeautifulSoup non forza l'a capo dopo le emoji.
-        #strip=True pulisce solo l'inizio e la fine del messaggio totale.
-        messaggio_puro = text_area.get_text().strip()
+        # 2. ESTRAZIONE TESTO CON SEPARATORE "CHIRURGICO"
+        # Usiamo un carattere speciale come separatore per identificare i tag HTML
+        raw_text = text_area.get_text(separator="\n")
 
-        # 3. ID per la cronologia (basato sul link del post)
+        # 3. PULIZIA DEGLI A CAPO DOPPI O INUTILI
+        # Sostituisce 3 o più invii con solo 2 (paragrafi puliti)
+        clean_text = re.sub(r'\n{3,}', '\n\n', raw_text)
+        
+        # Rimuove gli spazi vuoti all'inizio e alla fine di ogni riga 
+        # e filtra le righe che sono rimaste totalmente vuote per errore
+        lines = [line.strip() for line in clean_text.split('\n') if line.strip()]
+        
+        # Ricostruiamo il messaggio unendo le linee con un singolo a capo
+        # Questo "stira" il testo eliminando i buchi dopo le emoji
+        final_text = '\n'.join(lines)
+
+        # 4. ID per la cronologia
         post_link_tag = last_msg.find('a', class_='tgme_widget_message_date')
-        post_id = post_link_tag['href'] if post_link_tag else messaggio_puro[:50]
+        post_id = post_link_tag['href'] if post_link_tag else final_text[:50]
         
         return {
-            "testo": messaggio_puro,
+            "testo": final_text,
             "id": post_id,
             "agid_url": agid_link
         }
@@ -48,9 +60,7 @@ def get_latest_post():
         return None
 
 def main():
-    if not WEBHOOK_URL:
-        print("Manca il Webhook!")
-        return
+    if not WEBHOOK_URL: return
     
     history = []
     if os.path.exists(HISTORY_FILE):
@@ -60,20 +70,17 @@ def main():
     data = get_latest_post()
     
     if data and data['id'] not in history:
-        # Costruzione messaggio: Testo + Link AgID (se esiste)
         invio = data['testo']
         if data['agid_url']:
             invio += f"\n\n🔗 [Leggi su AgID]({data['agid_url']})"
 
-        # Invio a Discord
         requests.post(WEBHOOK_URL, json={"content": invio[:2000]})
         
-        # Salvataggio in cronologia
         with open(HISTORY_FILE, "a") as f: 
             f.write(data['id'] + "\n")
-        print("Messaggio inviato correttamente!")
+        print("Inviato con successo!")
     else:
-        print("Nessuna novità da pubblicare.")
+        print("Già presente o nessun post.")
 
 if __name__ == "__main__":
     main()
