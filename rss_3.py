@@ -10,7 +10,6 @@ HISTORY_FILE = "history_3.txt"
 # Funzione per capire se una stringa contiene solo emoji o simboli
 def is_emoji_only(text):
     # Rimuoviamo spazi e controlliamo se rimane qualcosa che non sia un'emoji/simbolo
-    # Questa è una versione semplificata: se non ci sono lettere o numeri, è "solo simboli/emoji"
     return not re.search(r'[a-zA-Z0-9]', text)
 
 def get_latest_post():
@@ -28,20 +27,21 @@ def get_latest_post():
         text_area = last_msg.find('div', class_='tgme_widget_message_text')
         if not text_area: return None
 
-        # 1. Recupero link AgID e lo rimuovo
+        # 1. Recupero link AgID SENZA cancellare il testo dell'articolo
         agid_link = ""
         for a in text_area.find_all('a'):
             href = a.get('href', '')
             if "cert-agid.gov.it" in href:
                 agid_link = href
-                a.decompose() 
+                # Invece di decompose(), sostituiamo il tag col suo solo testo
+                # Così se c'è scritto "Avviso AgID", il testo resta ma il link blu sparisce
+                a.unwrap() 
 
         # 2. Conversione selettiva (Ignora emoji, hashtag e vuoti)
         for tag_name in ["b", "i", "code"]:
             for tag in text_area.find_all(tag_name):
                 content = tag.get_text()
                 
-                # NUOVA CONDIZIONE: Se contiene solo emoji/simboli, #, o è vuoto, NON FARE NULLA
                 if not content.strip() or "#" in content or is_emoji_only(content):
                     continue 
                 else:
@@ -57,12 +57,12 @@ def get_latest_post():
 
         # 5. Pulizia link e emoji 🔗 residua
         testo_raw = testo_raw.replace("🔗", "")
+        # Questa regex rimuove solo i link nudi (testuali) che puntano a AgID
         testo_raw = re.sub(r'https?://cert-agid\.gov\.it/\S*', '', testo_raw).strip()
 
         # 6. Logica Titolo (Forziamo un grassetto unico e pulito)
         parti = testo_raw.split('\n\n', 1)
         if len(parti) > 1:
-            # Rimuoviamo TUTTI gli asterischi dalla prima riga prima di rimetterli noi
             titolo_pulito = parti[0].replace('**', '').replace('*', '').strip()
             testo_finale = f"**{titolo_pulito}**\n\n{parti[1].strip()}"
         else:
@@ -98,7 +98,7 @@ def main():
 
         requests.post(WEBHOOK_URL, json={"content": invio[:2000]})
         with open(HISTORY_FILE, "a") as f: f.write(data['id'] + "\n")
-        print("Inviato con successo e senza tripli asterischi!")
+        print("Inviato correttamente!")
 
 if __name__ == "__main__":
     main()
