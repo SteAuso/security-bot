@@ -30,42 +30,40 @@ def get_latest_post():
                 agid_link = href
                 a.decompose() 
 
-        # 2. Gestione intelligente dei tag di formattazione
-        # Sostituiamo i tag solo se contengono testo reale (non vuoti)
+        # 2. Trasformazione tag solo se SENSATI (No hashtag, no vuoti)
         for tag_name in ["b", "i", "code"]:
             for tag in text_area.find_all(tag_name):
-                content = tag.get_text(strip=True)
-                if content: # Se c'è testo vero
+                content = tag.get_text().strip()
+                # Se il tag è vuoto o contiene SOLO un hashtag, lo lasciamo come testo piano
+                if not content or content.startswith("#"):
+                    continue 
+                else:
                     prefix = "**" if tag_name == "b" else "*" if tag_name == "i" else "`"
                     tag.replace_with(f"{prefix}{tag.get_text()}{prefix}")
-                else: # Se è un tag vuoto tipo <b></b>
-                    tag.decompose()
 
         # 3. Trasformiamo i <br> in \n
         for br in text_area.find_all("br"):
             br.replace_with("\n")
 
-        # 4. Estrazione testo pulito
+        # 4. Estrazione testo e rimozione hashtag residui dal corpo
         testo_raw = text_area.get_text().strip()
-
+        # Rimuove hashtag (parole che iniziano con #) per pulizia totale
+        testo_raw = re.sub(r'#\S+', '', testo_raw).strip()
+        
         # 5. Pulizia link residui ed emoji orfane
         testo_raw = testo_raw.replace("🔗", "")
         testo_raw = re.sub(r'https?://cert-agid\.gov\.it/\S*', '', testo_raw).strip()
 
         # 6. Logica Titolo (Prima riga) e Corpo
-        # Dividiamo per il primo doppio a capo
         parti = testo_raw.split('\n\n', 1)
         
         if len(parti) > 1:
-            # Puliamo la prima riga da eventuali grassetti già presenti per non raddoppiarli
-            titolo_pulito = parti[0].replace('**', '').strip()
+            # Pulizia preventiva di eventuali residui di formattazione nel titolo
+            titolo_pulito = parti[0].replace('**', '').replace('*', '').strip()
             corpo = parti[1].strip()
             
-            # Rimuoviamo l'eventuale ultima riga se è diventata vuota o inutile dopo la pulizia link
-            corpo_linee = corpo.split('\n')
-            if corpo_linee and (not corpo_linee[-1].strip() or len(corpo_linee[-1].strip()) < 2):
-                corpo_linee.pop()
-            
+            # Rimuove l'ultima riga se rimasta vuota dopo la pulizia
+            corpo_linee = [l for l in corpo.split('\n') if l.strip()]
             testo_finale = f"**{titolo_pulito}**\n\n" + "\n".join(corpo_linee)
         else:
             testo_finale = f"**{testo_raw.replace('**', '').strip()}**"
@@ -97,9 +95,11 @@ def main():
         if data['agid_url']:
             invio += f"\n\n🔗 [Leggi l'avviso completo sul sito AgID]({data['agid_url']})"
 
+        # Invio (troncato a 2000 per i limiti di Discord)
         requests.post(WEBHOOK_URL, json={"content": invio[:2000]})
+        
         with open(HISTORY_FILE, "a") as f: f.write(data['id'] + "\n")
-        print("Inviato: Tutto pulito!")
+        print("Inviato: Pulizia hashtag e titoli completata!")
 
 if __name__ == "__main__":
     main()
