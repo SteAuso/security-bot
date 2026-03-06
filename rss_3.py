@@ -21,47 +21,52 @@ def get_latest_post():
         text_area = messages[-1].find('div', class_='tgme_widget_message_text')
         if not text_area: return None
 
-        # 1. ELIMINA TAG VUOTI (Inclusi quelli con solo spazio)
-        for tag in text_area.find_all(['b', 'i', 'span']):
-            if not tag.get_text(strip=True):
-                tag.decompose()
-
-        # 2. ESTRAZIONE LINK AGID
+        # 1. ESTRAZIONE LINK AGID
         agid_url = ""
         for a in text_area.find_all('a'):
             if "cert-agid.gov.it" in a.get('href', ''):
                 agid_url = a.get('href')
                 a.decompose()
 
-        # 3. CONVERSIONE FORMATTAZIONE (Solo se non contiene hashtag)
-        for tag in text_area.find_all(['b', 'i']):
+        # 2. CONVERSIONE FORMATTAZIONE
+        # Usiamo un ciclo che trasforma i tag in stringhe Markdown leggibili
+        for tag in text_area.find_all(['b', 'i', 'code']):
             content = tag.get_text()
-            if "#" not in content:
-                prefix = "**" if tag.name == 'b' else "*"
-                tag.replace_with(f"{prefix}{content}{prefix}")
-            else:
+            # Se il tag è vuoto o contiene hashtag, lo lasciamo liscio
+            if not content.strip() or "#" in content:
                 tag.replace_with(content)
+            else:
+                if tag.name == 'b':
+                    tag.replace_with(f"**{content}**")
+                elif tag.name == 'i':
+                    tag.replace_with(f"*{content}*")
+                elif tag.name == 'code':
+                    tag.replace_with(f"`{content}`")
 
-        # 4. A CAPO
+        # 3. GESTIONE A CAPO
         for br in text_area.find_all("br"):
             br.replace_with("\n")
 
-        # 5. ESTRAZIONE TESTO E PULIZIA EMOJI/LINK
+        # 4. ESTRAZIONE TESTO
         testo = text_area.get_text().strip()
         testo = testo.replace("🔗", "")
         testo = re.sub(r'https?://cert-agid\.gov\.it/\S*', '', testo).strip()
 
-        # 6. TITOLO IN GRASSETTO (Solo prima riga)
+        # 5. TITOLO IN GRASSETTO (Solo prima riga)
         parti = testo.split('\n\n', 1)
         if len(parti) > 1:
-            titolo = parti[0].replace('**', '').strip()
+            # Puliamo i vecchi asterischi solo dalla prima riga per rifarla pulita
+            titolo = parti[0].replace('**', '').replace('*', '').strip()
             testo_finale = f"**{titolo}**\n\n{parti[1].strip()}"
         else:
-            testo_finale = f"**{testo.replace('**', '').strip()}**"
+            titolo = testo.replace('**', '').replace('*', '').strip()
+            testo_finale = f"**{titolo}**"
 
-        # 7. PULIZIA GLOBALE "FANTASMI" (Rimuove ** ** o ****** ovunque nel testo)
-        # Questa regex trova sequenze di asterischi che hanno solo spazi o nulla in mezzo
+        # 6. PULIZIA GLOBALE FANTASMI (Rimuove ** ** o ****** ovunque)
+        # Questa regex elimina sequenze di asterischi che non racchiudono nulla
         testo_finale = re.sub(r'\*+\s*\*+', '', testo_finale)
+        # Rimuove anche eventuali triple coppie di asterischi vuote rimaste attaccate
+        testo_finale = testo_finale.replace("******", "")
 
         post_link = messages[-1].find('a', class_='tgme_widget_message_date')
         post_id = post_link['href'] if post_link else testo_finale[:50]
