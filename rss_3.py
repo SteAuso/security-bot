@@ -22,34 +22,37 @@ def get_latest_post():
         text_area = last_msg.find('div', class_='tgme_widget_message_text')
         if not text_area: return None
 
-        # 1. Recupero link AgID e lo rimuovo dai tag <a> per non averlo nel testo
+        # 1. Recupero link AgID e lo DECOMPOSTO dall'HTML
         agid_link = ""
         for a in text_area.find_all('a'):
             href = a.get('href', '')
             if "cert-agid.gov.it" in href:
                 agid_link = href
-                # Rimuoviamo il tag <a> dal testo per evitare il doppione nel get_text()
-                a.decompose() 
+                a.decompose() # Rimuove il tag <a> fisicamente
 
         # 2. Gestione tag <br> per i paragrafi
         for br in text_area.find_all("br"):
             br.replace_with("\n")
 
-        # Estraiamo il testo (senza i link AgID appena rimossi)
+        # 3. Estrazione testo pulito (senza link <a>)
         testo_raw = text_area.get_text().strip()
 
-        # 3. Pulizia ulteriore: se il link era scritto come testo piano (non cliccabile)
-        # Usiamo una Regex per rimuovere eventuali URL residui al sito AgID
+        # 4. RIMOZIONE EMOJI 🔗 E LINK TESTUALI RESIDUI
+        # Rimuove l'emoji del link se è rimasta isolata
+        testo_raw = testo_raw.replace("🔗", "")
+        # Rimuove eventuali URL scritti come testo piano
         testo_raw = re.sub(r'https?://cert-agid\.gov\.it/\S*', '', testo_raw).strip()
 
-        # 4. Logica Grassetto sul primo paragrafo
+        # 5. Logica Grassetto sul primo paragrafo
         parti = testo_raw.split('\n\n', 1)
         if len(parti) > 1:
+            # Titolo in grassetto + corpo
             testo_finale = f"**{parti[0].strip()}**\n\n{parti[1].strip()}"
         else:
+            # Se non ci sono paragrafi, tutto in grassetto
             testo_finale = f"**{testo_raw}**"
 
-        # 5. ID per cronologia
+        # 6. ID per cronologia
         post_link_tag = last_msg.find('a', class_='tgme_widget_message_date')
         post_id = post_link_tag['href'] if post_link_tag else testo_raw[:50]
         
@@ -72,15 +75,16 @@ def main():
     data = get_latest_post()
     
     if data and data['id'] not in history:
-        # Messaggio finale: Testo (senza link interni) + Link in fondo
+        # Messaggio finale pulito
         invio = data['testo']
         if data['agid_url']:
+            # Aggiungiamo noi il link pulito in fondo
             invio += f"\n\n🔗 [Leggi l'avviso completo sul sito AgID]({data['agid_url']})"
 
         requests.post(WEBHOOK_URL, json={"content": invio[:2000]})
         
         with open(HISTORY_FILE, "a") as f: f.write(data['id'] + "\n")
-        print("Inviato con successo senza doppioni!")
+        print("Inviato con successo, pulizia emoji completata!")
 
 if __name__ == "__main__":
     main()
