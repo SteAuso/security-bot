@@ -4,7 +4,7 @@ import os
 
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 CHANNEL_URL = "https://t.me/s/certagid"
-HISTORY_FILE = "history_telegram.txt"
+HISTORY_FILE = "history_3.txt"
 
 def get_latest_post():
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
@@ -21,7 +21,7 @@ def get_latest_post():
         text_area = last_msg.find('div', class_='tgme_widget_message_text')
         if not text_area: return None
 
-        # 1. Recupero il link AgID se presente
+        # 1. Recupero il link AgID se presente (cercandolo tra i tag <a>)
         agid_link = ""
         for a in text_area.find_all('a'):
             href = a.get('href', '')
@@ -29,16 +29,17 @@ def get_latest_post():
                 agid_link = href
                 break
 
-        # 2. Estraggo il testo così com'è (mantenendo la formattazione originale di Telegram)
-        # get_text(separator="\n") mantiene i ritorni a capo dei tag div/br
-        messaggio_completo = text_area.get_text(separator="\n").strip()
+        # 2. ESTRAZIONE TESTO (Il Segreto è qui: niente separator)
+        # Togliendo separator="\n", BeautifulSoup non forza l'a capo dopo le emoji.
+        #strip=True pulisce solo l'inizio e la fine del messaggio totale.
+        messaggio_puro = text_area.get_text().strip()
 
-        # 3. ID per la cronologia (usiamo il link interno del post di Telegram)
+        # 3. ID per la cronologia (basato sul link del post)
         post_link_tag = last_msg.find('a', class_='tgme_widget_message_date')
-        post_id = post_link_tag['href'] if post_link_tag else messaggio_completo[:50]
+        post_id = post_link_tag['href'] if post_link_tag else messaggio_puro[:50]
         
         return {
-            "testo": messaggio_completo,
+            "testo": messaggio_puro,
             "id": post_id,
             "agid_url": agid_link
         }
@@ -59,7 +60,7 @@ def main():
     data = get_latest_post()
     
     if data and data['id'] not in history:
-        # Costruzione messaggio: Testo originale + Link AgID (se esiste)
+        # Costruzione messaggio: Testo + Link AgID (se esiste)
         invio = data['testo']
         if data['agid_url']:
             invio += f"\n\n🔗 [Leggi su AgID]({data['agid_url']})"
@@ -70,9 +71,9 @@ def main():
         # Salvataggio in cronologia
         with open(HISTORY_FILE, "a") as f: 
             f.write(data['id'] + "\n")
-        print("Messaggio inviato!")
+        print("Messaggio inviato correttamente!")
     else:
-        print("Nessuna novità.")
+        print("Nessuna novità da pubblicare.")
 
 if __name__ == "__main__":
     main()
