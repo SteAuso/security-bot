@@ -30,33 +30,45 @@ def get_latest_post():
                 agid_link = href
                 a.decompose() 
 
-        # 2. MANTENIAMO LA FORMATTAZIONE (Corsivo e Grassetto interno)
-        # Trasformiamo i tag HTML in Markdown prima di estrarre il testo
-        for b in text_area.find_all("b"):
-            b.replace_with(f"**{b.get_text()}**")
-        for i in text_area.find_all("i"):
-            i.replace_with(f"*{i.get_text()}*")
-        for code in text_area.find_all("code"):
-            code.replace_with(f"`{code.get_text()}`")
+        # 2. Gestione intelligente dei tag di formattazione
+        # Sostituiamo i tag solo se contengono testo reale (non vuoti)
+        for tag_name in ["b", "i", "code"]:
+            for tag in text_area.find_all(tag_name):
+                content = tag.get_text(strip=True)
+                if content: # Se c'è testo vero
+                    prefix = "**" if tag_name == "b" else "*" if tag_name == "i" else "`"
+                    tag.replace_with(f"{prefix}{tag.get_text()}{prefix}")
+                else: # Se è un tag vuoto tipo <b></b>
+                    tag.decompose()
 
-        # 3. Gestione tag <br> per i paragrafi
+        # 3. Trasformiamo i <br> in \n
         for br in text_area.find_all("br"):
             br.replace_with("\n")
 
         # 4. Estrazione testo pulito
         testo_raw = text_area.get_text().strip()
 
-        # 5. RIMOZIONE EMOJI 🔗 E LINK TESTUALI RESIDUI
+        # 5. Pulizia link residui ed emoji orfane
         testo_raw = testo_raw.replace("🔗", "")
         testo_raw = re.sub(r'https?://cert-agid\.gov\.it/\S*', '', testo_raw).strip()
 
-        # 6. Logica Grassetto sul primo paragrafo
+        # 6. Logica Titolo (Prima riga) e Corpo
+        # Dividiamo per il primo doppio a capo
         parti = testo_raw.split('\n\n', 1)
+        
         if len(parti) > 1:
-            # Titolo in grassetto + corpo (che ora contiene i corsivi *)
-            testo_finale = f"**{parti[0].strip()}**\n\n{parti[1].strip()}"
+            # Puliamo la prima riga da eventuali grassetti già presenti per non raddoppiarli
+            titolo_pulito = parti[0].replace('**', '').strip()
+            corpo = parti[1].strip()
+            
+            # Rimuoviamo l'eventuale ultima riga se è diventata vuota o inutile dopo la pulizia link
+            corpo_linee = corpo.split('\n')
+            if corpo_linee and (not corpo_linee[-1].strip() or len(corpo_linee[-1].strip()) < 2):
+                corpo_linee.pop()
+            
+            testo_finale = f"**{titolo_pulito}**\n\n" + "\n".join(corpo_linee)
         else:
-            testo_finale = f"**{testo_raw}**"
+            testo_finale = f"**{testo_raw.replace('**', '').strip()}**"
 
         # 7. ID per cronologia
         post_link_tag = last_msg.find('a', class_='tgme_widget_message_date')
@@ -85,11 +97,9 @@ def main():
         if data['agid_url']:
             invio += f"\n\n🔗 [Leggi l'avviso completo sul sito AgID]({data['agid_url']})"
 
-        # Invio a Discord
         requests.post(WEBHOOK_URL, json={"content": invio[:2000]})
-        
         with open(HISTORY_FILE, "a") as f: f.write(data['id'] + "\n")
-        print("Inviato con successo con formattazione preservata!")
+        print("Inviato: Tutto pulito!")
 
 if __name__ == "__main__":
     main()
