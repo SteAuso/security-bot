@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+import re
 
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 CHANNEL_URL = "https://t.me/s/certagid"
@@ -21,29 +22,39 @@ def get_latest_post():
         text_area = last_msg.find('div', class_='tgme_widget_message_text')
         if not text_area: return None
 
-        # 1. Recupero link AgID
+        # 1. Recupero link AgID e lo rimuovo dai tag <a> per non averlo nel testo
         agid_link = ""
         for a in text_area.find_all('a'):
             href = a.get('href', '')
             if "cert-agid.gov.it" in href:
                 agid_link = href
-                break
+                # Rimuoviamo il tag <a> dal testo per evitare il doppione nel get_text()
+                a.decompose() 
 
-        # 2. LOGICA ANTI-SPAZIO EMOJI + PARAGRAFI
-        # Sostituiamo i doppi tag <br> o le chiusure di div con un segnaposto temporaneo
-        # per preservare i paragrafi veri prima di estrarre il testo "piatto"
+        # 2. Gestione tag <br> per i paragrafi
         for br in text_area.find_all("br"):
             br.replace_with("\n")
 
-        # Estraiamo il testo SENZA separatore (così le emoji non vanno a capo)
-        testo_pulito = text_area.get_text().strip()
+        # Estraiamo il testo (senza i link AgID appena rimossi)
+        testo_raw = text_area.get_text().strip()
 
-        # 3. ID per la cronologia
+        # 3. Pulizia ulteriore: se il link era scritto come testo piano (non cliccabile)
+        # Usiamo una Regex per rimuovere eventuali URL residui al sito AgID
+        testo_raw = re.sub(r'https?://cert-agid\.gov\.it/\S*', '', testo_raw).strip()
+
+        # 4. Logica Grassetto sul primo paragrafo
+        parti = testo_raw.split('\n\n', 1)
+        if len(parti) > 1:
+            testo_finale = f"**{parti[0].strip()}**\n\n{parti[1].strip()}"
+        else:
+            testo_finale = f"**{testo_raw}**"
+
+        # 5. ID per cronologia
         post_link_tag = last_msg.find('a', class_='tgme_widget_message_date')
-        post_id = post_link_tag['href'] if post_link_tag else testo_pulito[:50]
+        post_id = post_link_tag['href'] if post_link_tag else testo_raw[:50]
         
         return {
-            "testo": testo_pulito,
+            "testo": testo_finale,
             "id": post_id,
             "agid_url": agid_link
         }
@@ -56,25 +67,20 @@ def main():
     
     history = []
     if os.path.exists(HISTORY_FILE):
-        with open(HISTORY_FILE, "r") as f: 
-            history = f.read().splitlines()
+        with open(HISTORY_FILE, "r") as f: history = f.read().splitlines()
 
     data = get_latest_post()
     
     if data and data['id'] not in history:
-        # Costruzione messaggio
+        # Messaggio finale: Testo (senza link interni) + Link in fondo
         invio = data['testo']
         if data['agid_url']:
-            invio += f"\n\n🔗 [Leggi su AgID]({data['agid_url']})"
+            invio += f"\n\n🔗 [Leggi l'avviso completo sul sito AgID]({data['agid_url']})"
 
-        # Invio a Discord
         requests.post(WEBHOOK_URL, json={"content": invio[:2000]})
         
-        with open(HISTORY_FILE, "a") as f: 
-            f.write(data['id'] + "\n")
-        print("Inviato con successo!")
-    else:
-        print("Nessuna novità.")
+        with open(HISTORY_FILE, "a") as f: f.write(data['id'] + "\n")
+        print("Inviato con successo senza doppioni!")
 
 if __name__ == "__main__":
     main()
