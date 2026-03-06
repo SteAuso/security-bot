@@ -22,7 +22,7 @@ def get_latest_post():
         text_area = last_msg.find('div', class_='tgme_widget_message_text')
         if not text_area: return None
 
-        # 1. Recupero link AgID e lo DECOMPOSTO
+        # 1. Recupero link AgID e lo rimuovo
         agid_link = ""
         for a in text_area.find_all('a'):
             href = a.get('href', '')
@@ -30,41 +30,34 @@ def get_latest_post():
                 agid_link = href
                 a.decompose() 
 
-        # 2. Trasformazione tag solo se SENSATI (No hashtag, no vuoti)
+        # 2. Conversione selettiva tag (NO hashtag, NO vuoti)
         for tag_name in ["b", "i", "code"]:
             for tag in text_area.find_all(tag_name):
-                content = tag.get_text().strip()
-                # Se il tag è vuoto o contiene SOLO un hashtag, lo lasciamo come testo piano
-                if not content or content.startswith("#"):
+                content = tag.get_text()
+                # Se il tag è vuoto o contiene un hashtag, NON convertirlo
+                if not content.strip() or "#" in content:
                     continue 
                 else:
                     prefix = "**" if tag_name == "b" else "*" if tag_name == "i" else "`"
-                    tag.replace_with(f"{prefix}{tag.get_text()}{prefix}")
+                    tag.replace_with(f"{prefix}{content}{prefix}")
 
         # 3. Trasformiamo i <br> in \n
         for br in text_area.find_all("br"):
             br.replace_with("\n")
 
-        # 4. Estrazione testo e rimozione hashtag residui dal corpo
+        # 4. Estrazione testo (le emoji restano attaccate)
         testo_raw = text_area.get_text().strip()
-        # Rimuove hashtag (parole che iniziano con #) per pulizia totale
-        testo_raw = re.sub(r'#\S+', '', testo_raw).strip()
-        
-        # 5. Pulizia link residui ed emoji orfane
+
+        # 5. Rimuoviamo solo l'emoji 🔗 e i link testuali residui ad AgID
         testo_raw = testo_raw.replace("🔗", "")
         testo_raw = re.sub(r'https?://cert-agid\.gov\.it/\S*', '', testo_raw).strip()
 
-        # 6. Logica Titolo (Prima riga) e Corpo
+        # 6. Logica Titolo (Tutto ciò che precede il primo doppio \n in grassetto)
         parti = testo_raw.split('\n\n', 1)
-        
         if len(parti) > 1:
-            # Pulizia preventiva di eventuali residui di formattazione nel titolo
-            titolo_pulito = parti[0].replace('**', '').replace('*', '').strip()
-            corpo = parti[1].strip()
-            
-            # Rimuove l'ultima riga se rimasta vuota dopo la pulizia
-            corpo_linee = [l for l in corpo.split('\n') if l.strip()]
-            testo_finale = f"**{titolo_pulito}**\n\n" + "\n".join(corpo_linee)
+            # Puliamo eventuali asterischi pre-esistenti nella prima riga per non raddoppiarli
+            titolo_pulito = parti[0].replace('**', '').strip()
+            testo_finale = f"**{titolo_pulito}**\n\n{parti[1].strip()}"
         else:
             testo_finale = f"**{testo_raw.replace('**', '').strip()}**"
 
@@ -93,13 +86,11 @@ def main():
     if data and data['id'] not in history:
         invio = data['testo']
         if data['agid_url']:
-            invio += f"\n\n🔗 [Leggi l'avviso completo sul sito AgID]({data['agid_url']})"
+            invio += f"\n\n🔗 [Leggi su AgID]({data['agid_url']})"
 
-        # Invio (troncato a 2000 per i limiti di Discord)
         requests.post(WEBHOOK_URL, json={"content": invio[:2000]})
-        
         with open(HISTORY_FILE, "a") as f: f.write(data['id'] + "\n")
-        print("Inviato: Pulizia hashtag e titoli completata!")
+        print("Inviato!")
 
 if __name__ == "__main__":
     main()
