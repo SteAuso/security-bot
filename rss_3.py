@@ -5,7 +5,7 @@ import re
 
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 CHANNEL_URL = "https://t.me/s/certagid"
-HISTORY_FILE = "history_telegram.txt"
+HISTORY_FILE = "history_3.txt"
 
 def get_latest_post():
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
@@ -28,15 +28,15 @@ def get_latest_post():
                 agid_url = a.get('href')
                 a.decompose()
 
-        # 2. CONVERSIONE TAG (B, I, CODE)
+        # 2. CONVERSIONE FORMATTAZIONE (Manteniamo i tag originali)
         for tag in text_area.find_all(['b', 'i', 'code']):
             content = tag.get_text()
-            
-            # Se è un hashtag o è vuoto/solo spazi, non aggiungere **
-            if "#" in content or not content.strip():
+            # Se contiene hashtag, non formattiamo
+            if "#" in content:
                 tag.replace_with(content)
                 continue
             
+            # Applichiamo il markdown
             if tag.name == 'b':
                 tag.replace_with(f"**{content}**")
             elif tag.name == 'i':
@@ -48,27 +48,25 @@ def get_latest_post():
         for br in text_area.find_all("br"):
             br.replace_with("\n")
 
-        # 4. ESTRAZIONE TESTO FINALE
+        # 4. ESTRAZIONE TESTO
         testo_raw = text_area.get_text().strip()
-        
-        # Pulizia link residui ed emoji 🔗
         testo_raw = testo_raw.replace("🔗", "")
         testo_raw = re.sub(r'https?://cert-agid\.gov\.it/\S*', '', testo_raw).strip()
 
-        # 5. TITOLO IN GRASSETTO (Solo prima riga)
+        # 5. LOGICA TITOLO
         parti = testo_raw.split('\n\n', 1)
         if len(parti) > 1:
+            # Puliamo solo la prima riga per rimettere il grassetto da zero
             titolo = parti[0].replace('**', '').replace('*', '').strip()
-            corpo = parti[1].strip()
-            testo_finale = f"**{titolo}**\n\n{corpo}"
+            testo_finale = f"**{titolo}**\n\n{parti[1].strip()}"
         else:
             titolo = testo_raw.replace('**', '').replace('*', '').strip()
             testo_finale = f"**{titolo}**"
 
-        # 6. PULIZIA TOTALE ASTERISCHI VUOTI (Il killer dei 6 asterischi)
-        # Rimuove sequenze di asterischi che non racchiudono nulla o solo spazi (es: ** **, ******)
+        # 6. RIMOZIONE ASTERISCHI VUOTI (Glitch Fix)
+        # Rimuove sequenze di asterischi che non contengono nulla o solo spazi (es. ****** o ** **)
         testo_finale = re.sub(r'\*+\s*\*+', '', testo_finale)
-        # Un ulteriore passaggio per rimuovere stringhe di asterischi attaccate rimaste orfane
+        # Rimuove anche blocchi di 4 o più asterischi rimasti orfani
         testo_finale = re.sub(r'\*{4,}', '', testo_finale)
 
         post_link = messages[-1].find('a', class_='tgme_widget_message_date')
