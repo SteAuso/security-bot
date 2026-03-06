@@ -23,7 +23,7 @@ def get_latest_post():
         messages = soup.find_all('div', class_='tgme_widget_message_wrap')
         if not messages: return None
 
-        last_msg = messages[-1]
+        last_msg = messages[-5]
         text_area = last_msg.find('div', class_='tgme_widget_message_text')
         if not text_area: return None
 
