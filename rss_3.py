@@ -5,7 +5,7 @@ import re
 
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 CHANNEL_URL = "https://t.me/s/certagid"
-HISTORY_FILE = "history_telegram.txt"
+HISTORY_FILE = "history_3.txt"
 
 def clean_extra_newlines(text):
     # Sostituisce 3 o più a capo con al massimo due
