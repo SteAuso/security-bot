@@ -46,6 +46,45 @@ def get_latest_post():
         corpo_testo = text_area.get_text(separator="\n").strip()
         corpo_testo = clean_extra_newlines(corpo_testo)
 
-        # 4. LINK DEL POST ORIGINALE
+        # 4. LINK DEL POST ORIGINALE (Riparato qui)
         post_link_tag = last_msg.find('a', class_='tgme_widget_message_date')
-        post_link = post_link_tag['href'] if post_link_tag else
+        post_link = post_link_tag['href'] if post_link_tag else ""
+        
+        return {
+            "titolo": titolo.upper(),
+            "corpo": corpo_testo,
+            "link": post_link
+        }
+    except Exception as e:
+        print(f"Errore durante lo scraping: {e}")
+        return None
+
+def main():
+    if not WEBHOOK_URL:
+        print("ERRORE: Variabile DISCORD_WEBHOOK non impostata!")
+        return
+    
+    history = []
+    if os.path.exists(HISTORY_FILE):
+        with open(HISTORY_FILE, "r") as f:
+            history = f.read().splitlines()
+
+    data = get_latest_post()
+    
+    if data and data['link'] not in history:
+        # Costruzione messaggio senza la sezione Approfondimenti
+        header = f"🛡️ **{data['titolo']}**\n\n"
+        footer = f"\n\n🔗 [Post Originale]({data['link']})"
+
+        # Composizione finale (con troncamento di sicurezza a 2000 car.)
+        full_message = f"{header}{data['corpo']}{footer}"
+
+        requests.post(WEBHOOK_URL, json={"content": full_message[:2000]})
+        
+        with open(HISTORY_FILE, "a") as f:
+            f.write(data['link'] + "\n")
+        print(f"Inviato: {data['titolo']}")
+    else:
+        print("Nessuna nuova notizia o post già inviato.")
+
+if __
