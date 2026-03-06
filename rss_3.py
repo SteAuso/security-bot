@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import re
 
+# Configurazione
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 CHANNEL_URL = "https://t.me/s/certagid"
 HISTORY_FILE = "history_3.txt"
@@ -46,7 +47,7 @@ def get_latest_post():
         corpo_testo = text_area.get_text(separator="\n").strip()
         corpo_testo = clean_extra_newlines(corpo_testo)
 
-        # 4. LINK DEL POST ORIGINALE (Riparato qui)
+        # 4. LINK DEL POST ORIGINALE
         post_link_tag = last_msg.find('a', class_='tgme_widget_message_date')
         post_link = post_link_tag['href'] if post_link_tag else ""
         
@@ -72,19 +73,21 @@ def main():
     data = get_latest_post()
     
     if data and data['link'] not in history:
-        # Costruzione messaggio senza la sezione Approfondimenti
+        # Costruzione messaggio
         header = f"🛡️ **{data['titolo']}**\n\n"
         footer = f"\n\n🔗 [Post Originale]({data['link']})"
-
-        # Composizione finale (con troncamento di sicurezza a 2000 car.)
         full_message = f"{header}{data['corpo']}{footer}"
 
+        # Invio a Discord
         requests.post(WEBHOOK_URL, json={"content": full_message[:2000]})
         
+        # Salvataggio in cronologia
         with open(HISTORY_FILE, "a") as f:
             f.write(data['link'] + "\n")
         print(f"Inviato: {data['titolo']}")
     else:
-        print("Nessuna nuova notizia o post già inviato.")
+        print("Nessuna nuova notizia da inviare.")
 
-if __
+# Questa è la riga che mancava o era troncata:
+if __name__ == "__main__":
+    main()
