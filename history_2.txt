@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/operational-summary-2-semestre-2025
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-splunk-3
 https://www.acn.gov.it/portale/w/xwiki-platform-poc-pubblico-per-lo-sfruttamento-della-cve-2026-26000
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-prodotti-atlassian
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-acronis
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-26
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-qualcomm-5
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-prodotti-juniper-networks-6
+https://www.acn.gov.it/portale/w/sanata-vulnerabilita-in-apache-airflow-providers-amazon
