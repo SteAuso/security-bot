@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-prodotti-atlassian
 https://www.acn.gov.it/portale/w/vulnerabilita-in-roundcube-webmail-1
 https://www.acn.gov.it/portale/w/rilevata-campagna-di-phishing-a-tema-google-docs
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-adselfservice-plus
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-prodotti-juniper
 https://www.acn.gov.it/portale/w/sanata-vulnerabilita-in-apache-airflow-providers-amazon
 https://www.acn.gov.it/portale/w/ivanti-february-security-update-1
 https://www.acn.gov.it/portale/w/sap-security-patch-day-14
+https://www.acn.gov.it/portale/w/kubernetes-rilevata-vulnerabilita-in-ingress-nginx
