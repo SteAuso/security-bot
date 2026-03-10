@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-campagna-di-phishing-a-tema-google-docs
-https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-adselfservice-plus
 https://www.acn.gov.it/portale/w/operational-summary-gennaio-2026
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-38
 https://www.acn.gov.it/portale/w/rilevate-attivita-malevole-al-fine-di-ottenere-privilegi-elevati-e-persistenza-sui-sistemi
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/ivanti-february-security-update-1
 https://www.acn.gov.it/portale/w/sap-security-patch-day-14
 https://www.acn.gov.it/portale/w/kubernetes-rilevata-vulnerabilita-in-ingress-nginx
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-nextcloud-flow
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-schneider-electric-10
+https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-18
