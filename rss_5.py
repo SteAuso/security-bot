@@ -26,7 +26,7 @@ def main():
         if link not in history:
             print(f"Nuova news: {entry.title}")
             
-            message = f"**{entry.title}**\n{entry.description}\n\nCategory: {entry.category}\n\n{link}"
+            message = f"**{entry.title}**\n\n{link}"
             requests.post(WEBHOOK_URL, json={"content": message})
             
             history.append(link)
