@@ -6,7 +6,7 @@ import os
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 CHANNEL_URL = "https://news.google.com/rss/search?q=site:https://x.com/H4ckmanac+when:7d&hl=en-US&gl=US&ceid=US:en"
 HISTORY_FILE = "history_5.txt"
-LIMIT = 5 # Controlla gli ultimi 5 messaggi per ogni esecuzione
+LIMIT = 30 # Controlla gli ultimi 30 messaggi per ogni esecuzione
 
 def get_latest_posts():
     headers = {
