@@ -4,7 +4,7 @@ import os
 
 # Configurazione
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
-CHANNEL_URL = "https://t.me/s/hackmanac_cybernews"
+CHANNEL_URL = "https://news.google.com/rss/search?q=site:https://x.com/H4ckmanac+when:7d&hl=en-US&gl=US&ceid=US:en"
 HISTORY_FILE = "history_5.txt"
 LIMIT = 5 # Controlla gli ultimi 5 messaggi per ogni esecuzione
 
