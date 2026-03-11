@@ -20,7 +20,7 @@ jobs:
           python-version: '3.9'
 
       - name: Installa librerie
-        run: pip install requests beautifulsoup4
+        run: pip install feedparser requests
 
       - name: Esegui lo script
         env:
