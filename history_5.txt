@@ -1,1 +1,6 @@
 
+🚨Cyber Alert ‼️ 🇨🇳China - 𝗧𝗿𝗮𝗻𝘀𝘀𝗶𝗼𝗻 AiLock hacking group claims to have breached Transsion and listed the company on its leak site. Threat actor: AiLock Sector: Telco Data exposure (claimed): 6 TB of data Data type: Source code, NDA documents, int - x.com
+🚨Cyber Alert ‼️ 🇯🇵Japan - 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗧𝗼𝗸𝘆𝗼 Unauthorized access to a University of Tokyo research server occurred after attackers used compromised researcher credentials. Threat actor: Unknown Sector: Education Data exposure (claimed): Not - x.com
+🚨Cyber Alert ‼️ 🇯🇵Japan - 𝗠𝘂𝗿𝗮𝘁𝗮 𝗠𝗮𝗻𝘂𝗳𝗮𝗰𝘁𝘂𝗿𝗶𝗻𝗴 𝗖𝗼., 𝗟𝘁𝗱. Murata Manufacturing Co., Ltd. reported that a third party gained unauthorised access to its IT environment and allegedly extracted data from internal systems. Threat actor: Unknown Sect - x.com
+🟧 #HackTuesday 🟧 Hack Tuesday: Week 04 - 10 March 2026 ⚠️659 cyber attacks across 66 countries ⚠️ ➡️The most active threat actor last week was NoName057(16) claiming responsibility for 66 cyber attacks. ➡️The USA is the most affected country, ac - x.com
+Our 𝐅𝐞𝐛𝐫𝐮𝐚𝐫𝐲 𝟐𝟎𝟐𝟔 𝐇𝐚𝐜𝐤𝐦𝐚𝐧𝐚𝐜 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐂𝐲𝐛𝐞𝐫 𝐑𝐢𝐬𝐤 𝐑𝐞𝐩𝐨𝐫𝐭 is ready! This edition introduces several new analytical elements, including the 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐌𝐚𝐠𝐢𝐜 𝐐𝐮𝐚𝐝𝐫𝐚𝐧𝐭, designed to visualise how cyber risk distributes across sectors - x.com
