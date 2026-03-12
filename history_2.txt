@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-asustor-adm
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-trend-micro-apex-one
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-n8n-2
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-elastic-1
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-craft-commerce
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-hpe-aruba-networking
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-curl
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-20
