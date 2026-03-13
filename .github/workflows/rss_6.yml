@@ -1,0 +1,36 @@
+name: Monitor FalconFeedsIo
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout codice
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Installa librerie
+        run: pip install feedparser requests
+
+      - name: Esegui lo script
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_6 }}
+        run: python rss_6.py
+
+      - name: Salva cronologia
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add history_6.txt || true
+          git commit -m "Update news history" || exit 0
+          git push
