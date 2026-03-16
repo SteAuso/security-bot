@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-19
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-39
 https://www.acn.gov.it/portale/w/rilevato-sfruttamento-attivo-di-vulnerabilita-in-prodotti-cisco-1
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-watchguard-2
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/veeam-sanate-vulnerabilita-in-backup-replicatio
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-41
 https://www.acn.gov.it/portale/w/pac4j-poc-pubblico-per-lo-sfruttamento-della-cve-2026-29000
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-vmware-3
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-django-4
