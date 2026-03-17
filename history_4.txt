@@ -27,3 +27,4 @@ https://darkwebinformer.com/threat-actor-selling-alleged-databases-from-crypto-a
 https://darkwebinformer.com/alleged-breach-of-therapeutes-exposes-71-500-patient-records-and-199-000-therapy-appointments-from-french-mental-health-platform/
 https://darkwebinformer.com/fbi-watchdog-feed/
 https://darkwebinformer.com/freerdp-the-open-source-rdp-implementation-that-powers-linux-remote-desktop/
+https://darkwebinformer.com/changedetection-io-self-hosted-website-change-monitoring-with-30k-stars-and-203-releases/
