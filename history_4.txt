@@ -1,5 +1,3 @@
-https://darkwebinformer.com/daily-dose-of-dark-web-informer-march-6th-2026/
-https://darkwebinformer.com/ransomware-negotiations/
 https://darkwebinformer.com/ransomware-notes/
 https://darkwebinformer.com/services/
 https://darkwebinformer.com/personal-data-of-agencia-tributaria-aeat-employees-allegedly-leaked-including-staff-of-all-ranks-and-ages/
@@ -28,3 +26,5 @@ https://darkwebinformer.com/fbi-watchdog-feed/
 https://darkwebinformer.com/freerdp-the-open-source-rdp-implementation-that-powers-linux-remote-desktop/
 https://darkwebinformer.com/changedetection-io-self-hosted-website-change-monitoring-with-30k-stars-and-203-releases/
 https://darkwebinformer.com/partial-leak-of-knownsec-corporate-documents-resurfaces-with-espionage-tradecraft-offensive-cyber-tools-and-global-targeting-evidence/
+https://darkwebinformer.com/alleged-breach-of-daryn-online-exposes-4-million-user-records-from-kazakhstans-largest-education-platform/
+https://darkwebinformer.com/sector-drainer-advertised-as-crypto-wallet-drainer-as-a-service-with-0-day-phantom-bypass-hidden-drain-and-autowithdraw-capabilities/
