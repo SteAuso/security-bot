@@ -1,4 +1,3 @@
-https://darkwebinformer.com/alleged-leak-of-557-892-vivo-brazil-customer-accounts-by-v-for-vendetta-cyber-team/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-march-6th-2026/
 https://darkwebinformer.com/ransomware-negotiations/
 https://darkwebinformer.com/ransomware-notes/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/alleged-breach-of-therapeutes-exposes-71-500-patient
 https://darkwebinformer.com/fbi-watchdog-feed/
 https://darkwebinformer.com/freerdp-the-open-source-rdp-implementation-that-powers-linux-remote-desktop/
 https://darkwebinformer.com/changedetection-io-self-hosted-website-change-monitoring-with-30k-stars-and-203-releases/
+https://darkwebinformer.com/partial-leak-of-knownsec-corporate-documents-resurfaces-with-espionage-tradecraft-offensive-cyber-tools-and-global-targeting-evidence/
