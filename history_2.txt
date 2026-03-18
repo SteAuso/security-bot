@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/freepbx-rilevato-sfruttamento-in-rete-della-vulnerabilita-cve-2025-64328
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-android-11
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-acronis
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-26
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-qualcomm-5
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/craft-cms-disponibile-poc-per-lo-sfruttamento-d
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-connectwise-screenconnect-2
 https://www.acn.gov.it/portale/w/apple-sanata-vulnerabilita-in-webkit
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mongodb-5
+https://www.acn.gov.it/portale/w/rilevata-nuova-vulnerabilita-in-freetype
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-spring-ai
