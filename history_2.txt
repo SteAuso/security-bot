@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-hpe-aruba-networking
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-curl
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-20
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-community-edition-ce-e-enterprise-edition-ee-2
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/ivanti-march-security-update-1
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-16
 https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-13
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-github-enterprise-server
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-8
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-craft-commerce
