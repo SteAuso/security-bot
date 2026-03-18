@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-26
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-qualcomm-5
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-prodotti-juniper-networks-6
-https://www.acn.gov.it/portale/w/sanata-vulnerabilita-in-apache-airflow-providers-amazon
 https://www.acn.gov.it/portale/w/ivanti-february-security-update-1
 https://www.acn.gov.it/portale/w/sap-security-patch-day-14
 https://www.acn.gov.it/portale/w/kubernetes-rilevata-vulnerabilita-in-ingress-nginx
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mongodb-5
 https://www.acn.gov.it/portale/w/rilevata-nuova-vulnerabilita-in-freetype
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-spring-ai
 https://www.acn.gov.it/portale/w/file-browser-disponibile-poc-per-lo-sfruttamento-vulnerabilita-cve-2026-32760
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-acronis
+https://www.acn.gov.it/portale/w/wing-ftp-server-poc-pubblico-per-lo-sfruttamento-delle-cve-2025-47812-e-cve-2025-47813
+https://www.acn.gov.it/portale/w/vulnerabilita-in-gnu-inetutils-telnetd-e-rischi-strutturali-del-protocollo-telnet
+https://www.acn.gov.it/portale/w/citrix-vulnerabilita-in-xenserver-1
