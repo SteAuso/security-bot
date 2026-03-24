@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-github-enterprise-server
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-8
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-craft-commerce
 https://www.acn.gov.it/portale/w/wazuh-disponibile-poc-per-lo-sfruttamento-della-vulnerabilita-cve-2026-25769
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-elastic
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-spring-cloud-config
 https://www.acn.gov.it/portale/w/vulnerabilita-in-gnu-c-library-2
 https://www.acn.gov.it/portale/w/libfuse-disponibile-poc-per-lo-sfruttamento-delle-cve-2026-33150-e-cve-2026-33179
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-citrix-9
