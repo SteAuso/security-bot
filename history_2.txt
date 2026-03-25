@@ -1,6 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-20
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-community-edition-ce-e-enterprise-edition-ee-2
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-40
 https://www.acn.gov.it/portale/w/langflow-rilevata-0-day-per-la-cve-2026-33017
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-splunk-4
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-11
@@ -48,3 +45,6 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-spring-cloud-config
 https://www.acn.gov.it/portale/w/vulnerabilita-in-gnu-c-library-2
 https://www.acn.gov.it/portale/w/libfuse-disponibile-poc-per-lo-sfruttamento-delle-cve-2026-33150-e-cve-2026-33179
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-citrix-9
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-qnap-7
+https://www.acn.gov.it/portale/w/wazuh-disponibile-poc-per-lo-sfruttamento-della-vulnerabilita-cve-2026-25769
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-kea-dhcp-server-e-bind
