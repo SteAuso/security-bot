@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/file-browser-disponibile-poc-per-lo-sfruttamento-vulnerabilita-cve-2026-32760
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-spring-ai
-https://www.acn.gov.it/portale/w/vulnerabilita-in-roundcube-webmail-2
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-oracle
 https://www.acn.gov.it/portale/w/vulnerabilita-in-gnu-inetutils-telnetd-e-rischi-strutturali-del-protocollo-telnet
 https://www.acn.gov.it/portale/w/citrix-vulnerabilita-in-xenserver-1
 https://www.acn.gov.it/portale/w/wing-ftp-server-poc-pubblico-per-lo-sfruttamento-delle-cve-2025-47812-e-cve-2025-47813
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-connectwise-screenco
 https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-spring
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-2
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-n8n-3
+https://www.acn.gov.it/portale/w/apple-sanata-vulnerabilita-in-webkit
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mongodb-5
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mitel
+https://www.acn.gov.it/portale/w/ubiquiti-rilevate-nuove-vulnerabilita
