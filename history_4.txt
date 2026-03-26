@@ -1,4 +1,3 @@
-https://darkwebinformer.com/viking-line-ferries-allegedly-breached-with-full-passenger-database-and-payment-data-leaked/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-march-11th-2026/
 https://darkwebinformer.com/26-500-exposed-iot-devices-and-3-000-rtsp-cameras-in-saudi-arabia-listed-for-free-download/
 https://darkwebinformer.com/alleged-breach-of-austrian-trailer-manufacturer-hb-brantner-with-customer-data-ndas-and-confidential-drawings-exfiltrated/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/physical-bitcoin-attacks/
 https://darkwebinformer.com/alleged-full-infrastructure-compromise-of-national-oil-ethiopia-with-800gb-erp-database-exfiltration-veeam-and-kaspersky-compromise-and-ransomware-deployment/
 https://darkwebinformer.com/alleged-breach-of-alyna-exposes-18-000-users-with-passwords-gps-coordinates-and-booking-data-from-kuwaiti-laundry-and-cleaning-app/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-march-25th-2026/
+https://darkwebinformer.com/alleged-data-leak-of-rouzbeh-educational-complex-exposes-202-383-records-including-student-and-employee-social-security-numbers-passwords-and-national-ids/
