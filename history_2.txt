@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/zimbra-rilevato-sfruttamento-in-rete-della-cve-2025-66376
-https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-jenkins
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-node-js-1
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-apache-airflow
 https://www.acn.gov.it/portale/w/compromissione-di-piattaforme-di-endpoint-management-e-hardening-delle-infrastrutture-cloud
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-19
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prestashop
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-14
 https://www.acn.gov.it/portale/w/vulnerabilita-in-strongswan-1
+https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-grafana-tempo
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-cpython-api
