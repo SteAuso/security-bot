@@ -1,4 +1,3 @@
-https://darkwebinformer.com/alleged-breach-of-austrian-trailer-manufacturer-hb-brantner-with-customer-data-ndas-and-confidential-drawings-exfiltrated/
 https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/
 https://darkwebinformer.com/azury-infostealer-source-code-sold-for-100-with-full-operator-panel-crypto-wallet-theft-and-keylogging-capabilities/
 https://darkwebinformer.com/sage-avasts-agent-detection-response-layer-that-guards-ai-coding-agents-against-malicious-commands/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/daily-dose-of-dark-web-informer-march-25th-2026/
 https://darkwebinformer.com/alleged-data-leak-of-rouzbeh-educational-complex-exposes-202-383-records-including-student-and-employee-social-security-numbers-passwords-and-national-ids/
 https://darkwebinformer.com/dark-web-drug-ring-busted-in-fulton-county-four-arrested-in-rochester-investigation/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-march-26th-2026/
+https://darkwebinformer.com/snowteam-launches-leak-bazaar-a-corporate-data-exchange-with-ml-powered-dump-analysis-dbms-reverse-engineering-and-ransomware-negotiation-support/
