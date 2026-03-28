@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-zabbix-2
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-nginx
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-42
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-atlassian-bamboo-data-center
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/vulnerabilita-in-roundcube-webmail-2
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-oracle
 https://www.acn.gov.it/portale/w/telegram-rilevata-vulnerabilita-0-click
 https://www.acn.gov.it/portale/w/wing-ftp-server-poc-pubblico-per-lo-sfruttamento-delle-cve-2025-47812-e-cve-2025-47813
+https://www.acn.gov.it/portale/w/icewarp-disponibile-poc-per-lo-sfruttamento-della-cve-2025-14500
