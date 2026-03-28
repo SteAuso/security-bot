@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/pytorch-disponibile-poc-per-lo-sfruttamento-della-cve-2025-32434
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-elastic
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-spring-cloud-config
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-community-edition-ce-e-enterprise-edition-ee-3
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/icewarp-disponibile-poc-per-lo-sfruttamento-del
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-zabbix-2
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-nginx
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-42
+https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-atlassian-bamboo-data-center
