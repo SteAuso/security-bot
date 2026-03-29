@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-n8n-3
 https://www.acn.gov.it/portale/w/attacco-multistadio-alla-supply-chain-ci/cd-e-iniezione-di-codice-malevolo
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mitel
 https://www.acn.gov.it/portale/w/ubiquiti-rilevate-nuove-vulnerabilita
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-43
 https://www.acn.gov.it/portale/w/operational-summary-febbraio-2026
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-12
 https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-spring
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-2
