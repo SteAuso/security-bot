@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-oracle
 https://www.acn.gov.it/portale/w/telegram-rilevata-vulnerabilita-0-click
 https://www.acn.gov.it/portale/w/wing-ftp-server-poc-pubblico-per-lo-sfruttamento-delle-cve-2025-47812-e-cve-2025-47813
 https://www.acn.gov.it/portale/w/icewarp-disponibile-poc-per-lo-sfruttamento-della-cve-2025-14500
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/ubiquiti-rilevate-nuove-vulnerabilita
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-watchguard-firebox
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-f5-2
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-spring-ai
+https://www.acn.gov.it/portale/w/vulnerabilita-in-roundcube-webmail-2
