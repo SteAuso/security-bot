@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-citrix-9
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-tp-link-archer
 https://www.acn.gov.it/portale/w/langflow-rilevata-0-day-per-la-cve-2026-33017
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-21
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-community-editi
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-qnap-7
 https://www.acn.gov.it/portale/w/wazuh-disponibile-poc-per-lo-sfruttamento-della-vulnerabilita-cve-2026-25769
 https://www.acn.gov.it/portale/w/vulnerabilita-in-gnu-c-library-2
+https://www.acn.gov.it/portale/w/libfuse-disponibile-poc-per-lo-sfruttamento-delle-cve-2026-33150-e-cve-2026-33179
