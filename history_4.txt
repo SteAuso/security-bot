@@ -1,5 +1,3 @@
-https://darkwebinformer.com/alleged-breach-of-therapeutes-exposes-71-500-patient-records-and-199-000-therapy-appointments-from-french-mental-health-platform/
-https://darkwebinformer.com/fbi-watchdog-feed/
 https://darkwebinformer.com/freerdp-the-open-source-rdp-implementation-that-powers-linux-remote-desktop/
 https://darkwebinformer.com/changedetection-io-self-hosted-website-change-monitoring-with-30k-stars-and-203-releases/
 https://darkwebinformer.com/partial-leak-of-knownsec-corporate-documents-resurfaces-with-espionage-tradecraft-offensive-cyber-tools-and-global-targeting-evidence/
@@ -28,3 +26,5 @@ https://darkwebinformer.com/noobsaibot-hvnc-advertised-as-next-generation-steale
 https://darkwebinformer.com/nz-police-bust-major-dark-web-drug-ring-in-auckland/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-march-30th-2026/
 https://darkwebinformer.com/threat-actor-selling-email-credentials-for-israeli-government-agencies-organizations-and-international-targets-including-israel-police-ministry-of-justice-and-quebec-education-board/
+https://darkwebinformer.com/threat-actor-auctioning-wordpress-admin-access-to-spanish-e-commerce-site-with-redsys-payment-gateway-and-1-200-monthly-card-orders/
+https://darkwebinformer.com/alleged-dataset-leak-of-canva-exposes-900-000-user-records-with-bcrypt-passwords-oauth-providers-and-design-platform-usage-data/
