@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/ubiquiti-rilevate-nuove-vulnerabilita
-https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-watchguard-firebox
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-f5-2
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-spring-ai
 https://www.acn.gov.it/portale/w/vulnerabilita-in-roundcube-webmail-2
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-spring
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-2
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-n8n-3
 https://www.acn.gov.it/portale/w/attacco-multistadio-alla-supply-chain-ci/cd-e-iniezione-di-codice-malevolo
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mitel
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-joomla
