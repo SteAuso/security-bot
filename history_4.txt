@@ -1,5 +1,3 @@
-https://darkwebinformer.com/partial-leak-of-knownsec-corporate-documents-resurfaces-with-espionage-tradecraft-offensive-cyber-tools-and-global-targeting-evidence/
-https://darkwebinformer.com/alleged-breach-of-daryn-online-exposes-4-million-user-records-from-kazakhstans-largest-education-platform/
 https://darkwebinformer.com/sector-drainer-advertised-as-crypto-wallet-drainer-as-a-service-with-0-day-phantom-bypass-hidden-drain-and-autowithdraw-capabilities/
 https://darkwebinformer.com/alleged-breach-of-tanzanias-brela-government-database-exposes-10-2-million-records-including-8-million-individuals/
 https://darkwebinformer.com/metropolitan-police-seize-dark-web-drug-marketplace-with-nearly-2-million-in-annual-sales/
@@ -28,3 +26,5 @@ https://darkwebinformer.com/threat-actor-auctioning-wordpress-admin-access-to-sp
 https://darkwebinformer.com/alleged-dataset-leak-of-canva-exposes-900-000-user-records-with-bcrypt-passwords-oauth-providers-and-design-platform-usage-data/
 https://darkwebinformer.com/cybercrime-website-leaderboard4574474574/
 https://darkwebinformer.com/vulta-intelligence-launches-as-credential-lookup-service-with-14-2-billion-indexed-records-telegram-bot-and-pay-per-query-ulp-extraction/
+https://darkwebinformer.com/fulcrumsec-breaches-unique-computing-refocus-ai-and-gennet-ai-exposing-23-000-insurance-policyholders-797m-in-premiums-driver-licenses-ssns-and-proprietary-ml-models-from-a-single-unpat/
+https://darkwebinformer.com/alleged-breach-of-smarteez-exposes-full-production-database-for-loreal-morocco-including-296-pharmacies-361k-sales-records-oauth-secrets-and-competitive-intelligence-across-four-loreal-/
