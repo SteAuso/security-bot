@@ -1,8 +1,3 @@
-https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-docker
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prestashop
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-vim-1
-https://www.acn.gov.it/portale/w/broadcom-aggiornamenti-per-il-prodotto-symantec-data-loss-prevention
-https://www.acn.gov.it/portale/w/supply-chain-attack-compromissione-del-pacchetto-npm-axios
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-cpython-api
 https://www.acn.gov.it/portale/w/vulnerabilita-in-strongswan-1
 https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-jenkins
@@ -48,3 +43,8 @@ https://www.acn.gov.it/portale/w/vulnerabilita-in-gnu-c-library-2
 https://www.acn.gov.it/portale/w/libfuse-disponibile-poc-per-lo-sfruttamento-delle-cve-2026-33150-e-cve-2026-33179
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-tp-link-archer
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-citrix-9
+https://www.acn.gov.it/portale/w/langflow-rilevata-0-day-per-la-cve-2026-33017
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-21
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-grafana-3
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-spring
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-suricata
