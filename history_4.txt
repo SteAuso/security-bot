@@ -1,4 +1,3 @@
-https://darkwebinformer.com/alleged-breach-of-chiles-ley-del-lobby-platform-exposes-250gb-of-government-lobbying-records-spanning-2018-to-2026/
 https://darkwebinformer.com/alleged-breach-of-airsoft-entrepot-exposes-333k-customer-records-orders-invoices-and-b2b-data-from-french-retailer-spanning-2013-to-2026/
 https://darkwebinformer.com/alleged-breach-of-chiles-servicio-civil-platform-exposes-110k-public-servant-records-with-full-names-and-user-ids/
 https://darkwebinformer.com/alleged-breach-of-allopneus-exposes-453k-customers-and-739k-records-from-frances-leading-online-tire-retailer-spanning-2014-to-2026/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/chrome-zero-day-cve-2026-5281-a-use-after-free-in-da
 https://darkwebinformer.com/hasbro-inc-has-filed-form-8-k-due-to-a-cybersecurity-incident/
 https://darkwebinformer.com/threat-actor-leaderboard-currently-elite-only/
 https://darkwebinformer.com/cve-2026-3775-dll-hijacking-in-foxit-pdf-editor-reader-update-service/
+https://darkwebinformer.com/alleged-breach-of-kbank-vietnam-exposes-10-1-million-credit-registration-records-with-national-ids-salaries-credit-scores-and-employer-details/
