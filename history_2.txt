@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/isc-rilevate-vulnerabilita-in-kea-dhcp-server-e-bind
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-7
-https://www.acn.gov.it/portale/w/operational-summary-febbraio-2026
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-12
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-watchguard-firebox
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-django
 https://www.acn.gov.it/portale/w/flowise-rilevato-sfruttamento-in-rete-della-cve-2025-58434
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-docker
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-vim-1
 https://www.acn.gov.it/portale/w/broadcom-aggiornamenti-per-il-prodotto-symantec-data-loss-prevention
 https://www.acn.gov.it/portale/w/supply-chain-attack-compromissione-del-pacchetto-npm-axios
+https://www.acn.gov.it/portale/w/vulnerabilita-in-strongswan-1
+https://www.acn.gov.it/portale/w/vulnerabilita-in-firmware-asus
+https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-19
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-openssl
