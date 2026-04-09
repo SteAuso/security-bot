@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prestashop
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-docker
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-vim-1
 https://www.acn.gov.it/portale/w/broadcom-aggiornamenti-per-il-prodotto-symantec-data-loss-prevention
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-ats
 https://www.acn.gov.it/portale/w/device-code-grant-campagna-mirata-all-ottenimento-di-token-oauth
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-citrix-9
 https://www.acn.gov.it/portale/w/forticlient-ems-rilevato-sfruttamento-in-rete-della-cve-2026-35616
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-suricata
