@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/attacco-multistadio-alla-supply-chain-ci/cd-e-iniezione-di-codice-malevolo
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-joomla
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-nextcloud-flow
 https://www.acn.gov.it/portale/w/windmill-disponibile-un-poc-per-lo-sfruttamento-delle-cve-2026-23696-e-cve-2026-22683
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-watchguard-firebox
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/file-browser-disponibili-poc-per-lo-sfruttament
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-gigabyte
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-22
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-ibm-langflow-desktop
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-n8n-3
+https://www.acn.gov.it/portale/w/flowise-rilevato-sfruttamento-in-rete-della-cve-2025-59528
