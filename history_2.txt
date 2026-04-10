@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-19
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-openssl
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-7
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-juniper-networks
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-vim-1
 https://www.acn.gov.it/portale/w/broadcom-aggiornamenti-per-il-prodotto-symantec-data-loss-prevention
 https://www.acn.gov.it/portale/w/supply-chain-attack-compromissione-del-pacchetto-npm-axios
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-45
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-elastic
