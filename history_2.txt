@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/file-browser-disponibili-poc-per-lo-sfruttamento-di-alcune-vulnerabilita
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-spring-cloud-gateway
 https://www.acn.gov.it/portale/w/cups-disponibili-poc-per-lo-sfruttamento-di-due-vulnerabilita
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-joomla
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-7
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-juniper-networks
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-watchguard-firebox
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-gigabyte
+https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-django
