@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-openssl
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-7
-https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-juniper-networks
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-watchguard-firebox
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-gigabyte
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-django
 https://www.acn.gov.it/portale/w/file-browser-disponibili-poc-per-lo-sfruttamento-di-alcune-vulnerabilita
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-ats
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-tomcat
 https://www.acn.gov.it/portale/w/openidentityplatform-rilevato-sfruttamento-della-cve-2026-33439
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-zammad
+https://www.acn.gov.it/portale/w/device-code-grant-campagna-mirata-all-ottenimento-di-token-oauth
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-elastic
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-45
+https://www.acn.gov.it/portale/w/adobe-rilevato-sfruttamento-in-rete-della-cve-2026-34621
