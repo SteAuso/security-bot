@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-file-browser
 https://www.acn.gov.it/portale/w/progress-disponibili-poc-per-lo-sfruttamento-di-vulnerabilita-in-sharefile
 https://www.acn.gov.it/portale/w/akira-campagne-di-sfruttamento-sistematico-di-vulnerabilita-perimetrali-e-accessi-vpn
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-4
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-sonicwall-10
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-palo-alto-networks
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-misp
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-dell-technologies
+https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-chamilo
