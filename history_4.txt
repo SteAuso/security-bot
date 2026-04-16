@@ -1,4 +1,3 @@
-https://darkwebinformer.com/threat-actor-selling-email-credentials-for-israeli-government-agencies-organizations-and-international-targets-including-israel-police-ministry-of-justice-and-quebec-education-board/
 https://darkwebinformer.com/threat-actor-auctioning-wordpress-admin-access-to-spanish-e-commerce-site-with-redsys-payment-gateway-and-1-200-monthly-card-orders/
 https://darkwebinformer.com/alleged-dataset-leak-of-canva-exposes-900-000-user-records-with-bcrypt-passwords-oauth-providers-and-design-platform-usage-data/
 https://darkwebinformer.com/cybercrime-website-leaderboard4574474574/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/moroccan-biomedical-school-suptech-sante-breached-23
 https://darkwebinformer.com/frances-national-id-agency-ants-allegedly-breached-18-million-citizen-records-with-government-verified-identities-listed-for-sale/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-14th-2026/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-15th-2026/
+https://darkwebinformer.com/news-feed/
