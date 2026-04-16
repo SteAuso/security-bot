@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-android-12
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-qualcomm-6
 https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-ats
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-tomcat
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/wordpress-rilevato-sfruttamento-della-cve-2026-
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-craft-commerce-1
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-20
 https://www.acn.gov.it/portale/w/progress-software-vulnerabilita-in-openedge
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-23
