@@ -1,4 +1,3 @@
-https://darkwebinformer.com/alleged-dataset-leak-of-canva-exposes-900-000-user-records-with-bcrypt-passwords-oauth-providers-and-design-platform-usage-data/
 https://darkwebinformer.com/cybercrime-website-leaderboard4574474574/
 https://darkwebinformer.com/vulta-intelligence-launches-as-credential-lookup-service-with-14-2-billion-indexed-records-telegram-bot-and-pay-per-query-ulp-extraction/
 https://darkwebinformer.com/fulcrumsec-breaches-unique-computing-refocus-ai-and-gennet-ai-exposing-23-000-insurance-policyholders-797m-in-premiums-driver-licenses-ssns-and-proprietary-ml-models-from-a-single-unpat/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-14th-2026/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-15th-2026/
 https://darkwebinformer.com/news-feed/
 https://darkwebinformer.com/french-basketball-federation-breached-1-9-million-members-and-800k-parents-exposed-with-addresses-medical-certificates-and-minor-data/
+https://darkwebinformer.com/cve-2026-34197-13-year-old-apache-activemq-rce-via-jolokia-api-surfaces-for-in-the-wild-attacks/
