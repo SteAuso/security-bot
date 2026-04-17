@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-apache-nifi-1
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-7
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-django
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-juniper-networks
 https://www.acn.gov.it/portale/w/adobe-rilevato-sfruttamento-in-rete-della-cve-2026-34621
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-45
 https://www.acn.gov.it/portale/w/esposizione-di-servizi-di-accesso-remoto-vnc-rischi-e-mitigazioni
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-46
 https://www.acn.gov.it/portale/w/openidentityplatform-rilevato-sfruttamento-della-cve-2026-33439
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-zammad
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-jetbrains-2
