@@ -1,4 +1,3 @@
-https://darkwebinformer.com/threat-actor-auctioning-wordpress-admin-access-to-spanish-e-commerce-site-with-redsys-payment-gateway-and-1-200-monthly-card-orders/
 https://darkwebinformer.com/alleged-dataset-leak-of-canva-exposes-900-000-user-records-with-bcrypt-passwords-oauth-providers-and-design-platform-usage-data/
 https://darkwebinformer.com/cybercrime-website-leaderboard4574474574/
 https://darkwebinformer.com/vulta-intelligence-launches-as-credential-lookup-service-with-14-2-billion-indexed-records-telegram-bot-and-pay-per-query-ulp-extraction/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/frances-national-id-agency-ants-allegedly-breached-1
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-14th-2026/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-15th-2026/
 https://darkwebinformer.com/news-feed/
+https://darkwebinformer.com/french-basketball-federation-breached-1-9-million-members-and-800k-parents-exposed-with-addresses-medical-certificates-and-minor-data/
