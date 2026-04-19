@@ -1,7 +1,3 @@
-https://www.ransomware.live/id/bW9yZ2FuY291bnR5Z2EuZ292QGluY3JhbnNvbQ==
-https://www.ransomware.live/id/bWFzdGVyY29tLmNvbS5hdUBpbmNyYW5zb20=
-https://www.ransomware.live/id/TXl0aGVyZXNhQHNoaW55aHVudGVycw==
-https://www.ransomware.live/id/TmF0aW9uYWwgUmFpbHJvYWQgUGFzc2VuZ2VyIENvcnBvcmF0aW9uIChhbXRyYWsuY29tKUBzaGlueWh1bnRlcnM=
 https://www.ransomware.live/id/TWNHcmF3IEhpbGwsIEluYy4gKG1oZWR1Y2F0aW9uLmNvbSlAc2hpbnlodW50ZXJz
 https://www.ransomware.live/id/UnlhbiwgTExDLkBzaGlueWh1bnRlcnM=
 https://www.ransomware.live/id/S2VtcGVyIENvcnBvcmF0aW9uQHNoaW55aHVudGVycw==
@@ -198,3 +194,7 @@ https://www.ransomware.live/id/TGlta29uQHFpbGlu
 https://www.ransomware.live/id/Z3Vlc3R5LCBMSVRFTExNL1RSSVZZIENBTVBBSUdOIChURUFNUENQKUB2ZWN0
 https://www.ransomware.live/id/UyZQR0xPQkFMLCBMaXRlTExNL1RyaXZ5IGNhbXBhaWduIChUZWFtUENQKUB2ZWN0
 https://www.ransomware.live/id/QVNUTSBHcm91cEBjb2luYmFzZWNhcnRlbA==
+https://www.ransomware.live/id/VW5pd2Vyc3l0ZXQgV2Fyc3phd3NraUBpbnRlcmxvY2s=
+https://www.ransomware.live/id/KioqQGdlbmVzaXM=
+https://www.ransomware.live/id/YWx1cGNvLmNvbUBpbmNyYW5zb20=
+https://www.ransomware.live/id/U3RyYXRhIFJlcHVibGljQGthaXJvcw==
