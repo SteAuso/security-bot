@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/apache-disponibile-poc-per-lo-sfruttamento-di-vulnerabilita-in-apache-activemq
-https://www.acn.gov.it/portale/w/phishing-campagna-a-tema-klarna-
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-sonicwall-10
-https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-prodotti-gl.inet-kvm
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-palo-alto-networks
 https://www.acn.gov.it/portale/w/disponibile-poc-per-lo-sfruttamento-della-cve-2025-62718-nella-libreria-axios
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-misp
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-spring-cloud-gateway
 https://www.acn.gov.it/portale/w/poc-pubblici-per-lo-sfruttamento-di-vulnerabilita-in-jetbrains-teamcity
 https://www.acn.gov.it/portale/w/progress-software-aggiornamenti-di-sicurezza-4
 https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-syncope
+https://www.acn.gov.it/portale/w/cups-disponibili-poc-per-lo-sfruttamento-di-due-vulnerabilita
+https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-prodotti-mitel
+https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-typo3-cms
+https://www.acn.gov.it/portale/w/libreria-protobufjs-disponibile-poc-per-lo-sfruttamento-della-cve-2026-41242
