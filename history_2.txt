@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-nextcloud-flow
-https://www.acn.gov.it/portale/w/file-browser-disponibili-poc-per-lo-sfruttamento-di-alcune-vulnerabilita
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-spring-cloud-gateway
 https://www.acn.gov.it/portale/w/windmill-disponibile-un-poc-per-lo-sfruttamento-delle-cve-2026-23696-e-cve-2026-22683
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-ibm-langflow-desktop
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-apache-nifi-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-asustor
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-juniper-networks
 https://www.acn.gov.it/portale/w/adobe-rilevato-sfruttamento-in-rete-della-cve-2026-34621
+https://www.acn.gov.it/portale/w/aggiornamenti-per-connectwise-automate-1
+https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotti-cisco
