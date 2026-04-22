@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/progress-software-vulnerabilita-in-openedge
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-23
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-splunk-1
-https://www.acn.gov.it/portale/w/zoho-sanate-vulnerabilita-in-prodotti-manageengine
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-tomcat
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-drupal
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-3
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/wordpress-rilevato-sfruttamento-della-cve-2026-
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-18
 https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-6
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-fortra-goanywhere-mft
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-craft-commerce-1
+https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-20
+https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-14
+https://www.acn.gov.it/portale/w/sinology-risolte-vulnerabilita-in-diskstation-manager
