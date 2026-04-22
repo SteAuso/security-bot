@@ -1,9 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-apache-nifi-1
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-asustor
-https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-juniper-networks
-https://www.acn.gov.it/portale/w/adobe-rilevato-sfruttamento-in-rete-della-cve-2026-34621
-https://www.acn.gov.it/portale/w/aggiornamenti-per-connectwise-automate-1
-https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotti-cisco
 https://www.acn.gov.it/portale/w/file-browser-disponibili-poc-per-lo-sfruttamento-di-alcune-vulnerabilita
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-spring-cloud-gateway
 https://www.acn.gov.it/portale/w/poc-pubblici-per-lo-sfruttamento-di-vulnerabilita-in-jetbrains-teamcity
@@ -48,3 +42,9 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-drupal
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-3
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-spring
 https://www.acn.gov.it/portale/w/zimbra-rilevato-sfruttamento-in-rete-della-cve-2025-48700
+https://www.acn.gov.it/portale/w/openidentityplatform-rilevato-sfruttamento-della-cve-2026-33439
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-zammad
+https://www.acn.gov.it/portale/w/esposizione-di-servizi-di-accesso-remoto-vnc-rischi-e-mitigazioni
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-46
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-jetbrains-2
+https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-kafka
