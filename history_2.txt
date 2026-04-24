@@ -1,9 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-tomcat
-https://www.acn.gov.it/portale/w/progress-software-vulnerabilita-in-openedge
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-23
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-splunk-1
-https://www.acn.gov.it/portale/w/zoho-sanate-vulnerabilita-in-prodotti-manageengine
-https://www.acn.gov.it/portale/w/sanate-vulnerabilita-in-prodotti-mozilla
 https://www.acn.gov.it/portale/w/openidentityplatform-rilevato-sfruttamento-della-cve-2026-33439
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-zammad
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-drupal
@@ -48,3 +42,9 @@ https://www.acn.gov.it/portale/w/tenable-sanata-vulnerabilita-in-nessus-3
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mastodon
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-grafana-tempo-1
 https://www.acn.gov.it/portale/w/bitwarden-cli-rilevata-distribuzione-di-versione-malevola-tramite-attacco-alla-supply-chain
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-craft-commerce-1
+https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-20
+https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-14
+https://www.acn.gov.it/portale/w/sinology-risolte-vulnerabilita-in-diskstation-manager
+https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-6
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-fortra-goanywhere-mft
