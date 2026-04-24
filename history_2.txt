@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/juniper-networks-risolta-vulnerabilita-in-junos-os-e-junos-os-evolved
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-ruby-4
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-craft-commerce-1
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-20
 https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-14
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/operational-summary-marzo-2026
 https://www.acn.gov.it/portale/w/firestarter-backdoor-rilevato-lo-sfruttamento-in-rete-di-due-vulnerabilita-cisco
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-18
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-19
+https://www.acn.gov.it/portale/w/freepbx-rilasciati-aggiornamenti
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-13
