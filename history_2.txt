@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/adobe-rilevato-sfruttamento-in-rete-della-cve-2026-34621
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-asustor
 https://www.acn.gov.it/portale/w/aggiornamenti-per-connectwise-automate-1
 https://www.acn.gov.it/portale/w/apache-disponibile-poc-per-lo-sfruttamento-di-vulnerabilita-in-apache-activemq
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/esposizione-di-servizi-di-accesso-remoto-vnc-ri
 https://www.acn.gov.it/portale/w/zimbra-rilevato-sfruttamento-in-rete-della-cve-2025-48700
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-46
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-jetbrains-2
+https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-kafka
