@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/libreria-protobufjs-disponibile-poc-per-lo-sfruttamento-della-cve-2026-41242
-https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-12
-https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-httpclient
-https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-atlassian-bamboo-data-center-1
 https://www.acn.gov.it/portale/w/samsung-rilevato-sfruttamento-in-rete-della-cve-2025-4632-relativa-a-magicinfo
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-17
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-9
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodo
 https://www.acn.gov.it/portale/w/poc-pubblici-per-lo-sfruttamento-di-vulnerabilita-in-jetbrains-teamcity
 https://www.acn.gov.it/portale/w/aggiornamenti-prodotti-connectwise-screenconnect
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-48
+https://www.acn.gov.it/portale/w/progress-software-aggiornamenti-di-sicurezza-4
+https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-syncope
+https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-typo3-cms
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-citrix-xenserver
