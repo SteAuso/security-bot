@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-kafka
 https://www.acn.gov.it/portale/w/adobe-rilevato-sfruttamento-in-rete-della-cve-2026-34621
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-asustor
 https://www.acn.gov.it/portale/w/aggiornamenti-per-connectwise-automate-1
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-proftpd-poc-pubblico-
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-3
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-spring
 https://www.acn.gov.it/portale/w/zimbra-rilevato-sfruttamento-in-rete-della-cve-2025-48700
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-jetbrains-2
