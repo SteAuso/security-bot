@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/firestarter-backdoor-rilevato-lo-sfruttamento-in-rete-di-due-vulnerabilita-cisco
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-13
-https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-19
-https://www.acn.gov.it/portale/w/juniper-networks-risolta-vulnerabilita-in-junos-os-e-junos-os-evolved
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-ruby-4
 https://www.acn.gov.it/portale/w/tenable-sanata-vulnerabilita-in-nessus-3
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mastodon
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/crowdstrike-risolta-vulnerabilita-in-logscale
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-47
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-spring-1
 https://www.acn.gov.it/portale/w/rclone-disponibili-poc-per-lo-sfruttamento-delle-cve-2026-41176-e-cve-2026-41179
+https://www.acn.gov.it/portale/w/freepbx-rilasciati-aggiornamenti
+https://www.acn.gov.it/portale/w/operational-summary-marzo-2026
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-drupal
+https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-apache-http-server
