@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/progress-software-aggiornamenti-di-sicurezza-4
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-48
 https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-syncope
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-typo3-cms
 https://www.acn.gov.it/portale/w/libreria-protobufjs-disponibile-poc-per-lo-sfruttamento-della-cve-2026-41242
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/whatsapp-rilevate-vulnerabilita-in-versioni-per
 https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-kafka
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-progress-moveit-automation
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-8
+https://www.acn.gov.it/portale/w/aggiornamenti-prodotti-connectwise-screenconnect
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-jetbrains-3
