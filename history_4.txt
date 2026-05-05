@@ -1,5 +1,3 @@
-https://darkwebinformer.com/cve-2026-34621-adobe-acrobat-reader-prototype-pollution-zero-day-enables-code-execution-via-malicious-pdfs/
-https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-13th-2026/
 https://darkwebinformer.com/moroccan-biomedical-school-suptech-sante-breached-231-student-dossiers-with-national-ids-diplomas-and-id-card-photos-exposed/
 https://darkwebinformer.com/frances-national-id-agency-ants-allegedly-breached-18-million-citizen-records-with-government-verified-identities-listed-for-sale/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-14th-2026/
@@ -28,3 +26,5 @@ https://darkwebinformer.com/when-the-watchman-gets-watched-trellix-discloses-sou
 https://darkwebinformer.com/copy-fail-lands-on-cisas-kev-a-nine-year-old-linux-bug-becomes-a-patch-deadline/
 https://darkwebinformer.com/when-a-screensaver-cracked-the-internets-trust-layer-inside-the-digicert-hack/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-4th-2026/
+https://darkwebinformer.com/cve-2026-0073-zero-click-rce-flaw-in-androids-wireless-adb-bypasses-authentication/
+https://darkwebinformer.com/weaver-e-cology-rce-flaw-actively-exploited-via-exposed-debug-api/
