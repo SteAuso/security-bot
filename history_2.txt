@@ -1,10 +1,3 @@
-https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-6
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-fortra-goanywhere-mft
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-sonicwall
-https://www.acn.gov.it/portale/w/linux-disponibile-poc-per-lo-sfruttamento-della-cve-2026-31431
-https://www.acn.gov.it/portale/w/cpanel-whm-e-wp-squared-poc-pubblico-per-lo-sfruttamento-della-cve-2026-41940
-https://www.acn.gov.it/portale/w/zoho-sanate-vulnerabilita-in-prodotti-manageengine
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mongodb-4
 https://www.acn.gov.it/portale/w/sap-rilevata-distribuzione-di-versione-malevola-tramite-attacco-alla-supply-chain
 https://www.acn.gov.it/portale/w/sanate-vulnerabilita-in-prodotti-mozilla
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-spring-2
@@ -48,3 +41,10 @@ https://www.acn.gov.it/portale/w/firestarter-backdoor-rilevato-lo-sfruttamento-i
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-19
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-exim
 https://www.acn.gov.it/portale/w/vulnerabilita-in-oracle-mcp
+https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-ruby-4
+https://www.acn.gov.it/portale/w/tenable-sanata-vulnerabilita-in-nessus-3
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mastodon
+https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-grafana-tempo-1
+https://www.acn.gov.it/portale/w/bitwarden-cli-rilevata-distribuzione-di-versione-malevola-tramite-attacco-alla-supply-chain
+https://www.acn.gov.it/portale/w/sinology-risolte-vulnerabilita-in-diskstation-manager
+https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-android-13
