@@ -1,6 +1,3 @@
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-ruby-4
-https://www.acn.gov.it/portale/w/tenable-sanata-vulnerabilita-in-nessus-3
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mastodon
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-grafana-tempo-1
 https://www.acn.gov.it/portale/w/bitwarden-cli-rilevata-distribuzione-di-versione-malevola-tramite-attacco-alla-supply-chain
 https://www.acn.gov.it/portale/w/sinology-risolte-vulnerabilita-in-diskstation-manager
@@ -48,3 +45,6 @@ https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-apache-http-serv
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-13
 https://www.acn.gov.it/portale/w/juniper-networks-risolta-vulnerabilita-in-junos-os-e-junos-os-evolved
 https://www.acn.gov.it/portale/w/firestarter-backdoor-rilevato-lo-sfruttamento-in-rete-di-due-vulnerabilita-cisco
+https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-19
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-exim
+https://www.acn.gov.it/portale/w/vulnerabilita-in-oracle-mcp
