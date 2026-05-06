@@ -1,6 +1,3 @@
-https://darkwebinformer.com/moroccan-biomedical-school-suptech-sante-breached-231-student-dossiers-with-national-ids-diplomas-and-id-card-photos-exposed/
-https://darkwebinformer.com/frances-national-id-agency-ants-allegedly-breached-18-million-citizen-records-with-government-verified-identities-listed-for-sale/
-https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-14th-2026/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-15th-2026/
 https://darkwebinformer.com/news-feed/
 https://darkwebinformer.com/french-basketball-federation-breached-1-9-million-members-and-800k-parents-exposed-with-addresses-medical-certificates-and-minor-data/
@@ -28,3 +25,6 @@ https://darkwebinformer.com/when-a-screensaver-cracked-the-internets-trust-layer
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-4th-2026/
 https://darkwebinformer.com/cve-2026-0073-zero-click-rce-flaw-in-androids-wireless-adb-bypasses-authentication/
 https://darkwebinformer.com/weaver-e-cology-rce-flaw-actively-exploited-via-exposed-debug-api/
+https://darkwebinformer.com/palo-alto-networks-warns-of-actively-exploited-pan-os-zero-day-granting-root-access/
+https://darkwebinformer.com/critical-apache-http-2-double-free-flaw-enables-denial-of-service-and-potential-remote-code-execution/
+https://darkwebinformer.com/52-3-bitcoin-and-a-suburban-search-warrant-inside-one-of-australias-biggest-crypto-seizures/
