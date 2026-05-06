@@ -1,4 +1,3 @@
-https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-15th-2026/
 https://darkwebinformer.com/news-feed/
 https://darkwebinformer.com/french-basketball-federation-breached-1-9-million-members-and-800k-parents-exposed-with-addresses-medical-certificates-and-minor-data/
 https://darkwebinformer.com/cve-2026-34197-13-year-old-apache-activemq-rce-via-jolokia-api-surfaces-for-in-the-wild-attacks/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/weaver-e-cology-rce-flaw-actively-exploited-via-expo
 https://darkwebinformer.com/palo-alto-networks-warns-of-actively-exploited-pan-os-zero-day-granting-root-access/
 https://darkwebinformer.com/critical-apache-http-2-double-free-flaw-enables-denial-of-service-and-potential-remote-code-execution/
 https://darkwebinformer.com/52-3-bitcoin-and-a-suburban-search-warrant-inside-one-of-australias-biggest-crypto-seizures/
+https://darkwebinformer.com/cloudz-rat-a-stealthy-new-trojan-hijacks-microsoft-phone-link-to-steal-your-sms-otps/
