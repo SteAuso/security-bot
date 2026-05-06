@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/crowdstrike-risolta-vulnerabilita-in-logscale
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-47
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-spring-1
-https://www.acn.gov.it/portale/w/rclone-disponibili-poc-per-lo-sfruttamento-delle-cve-2026-41176-e-cve-2026-41179
 https://www.acn.gov.it/portale/w/freepbx-rilasciati-aggiornamenti
 https://www.acn.gov.it/portale/w/operational-summary-marzo-2026
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-drupal
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-httpclient
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-atlassian-bamboo-data-center-1
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-citrix-xenserver
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-zabbix-3
+https://www.acn.gov.it/portale/w/samsung-rilevato-sfruttamento-in-rete-della-cve-2025-4632-relativa-a-magicinfo
+https://www.acn.gov.it/portale/w/notepad-poc-pubblico-per-lo-sfruttamento-della-cve-2026-3008
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-github-enterprise-server
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-4
