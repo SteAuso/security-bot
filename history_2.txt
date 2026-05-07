@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-48
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-proftpd-poc-pubblico-per-lo-sfruttamento-della-cve-2026-44331
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-juniper-secure-analytics
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-sandboxie-per-windows
 https://www.acn.gov.it/portale/w/palo-alto-pan-os-rilevato-sfruttamento-in-rete-della-cve-2026-0300
 https://www.acn.gov.it/portale/w/campagna-phishing-impatta-utenti-di-n26-al02/210330/csirt-ita-
 https://www.acn.gov.it/portale/w/vulnerabilita-in-apache-httpclient
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-proftpd-poc-pubblico-
 https://www.acn.gov.it/portale/w/whatsapp-rilevate-vulnerabilita-in-versioni-per-windows-e-ios/android
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mongodb-5
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-spring-cloud-config
+https://www.acn.gov.it/portale/w/aggiornamenti-prodotti-connectwise-screenconnect
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-progress-moveit-automation
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-8
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-jetbrains-3
