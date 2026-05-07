@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-citrix-xenserver
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-zabbix-3
 https://www.acn.gov.it/portale/w/samsung-rilevato-sfruttamento-in-rete-della-cve-2025-4632-relativa-a-magicinfo
 https://www.acn.gov.it/portale/w/notepad-poc-pubblico-per-lo-sfruttamento-della-cve-2026-3008
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-github-enterprise-server
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-48
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-proftpd-poc-pubblico-per-lo-sfruttamento-della-cve-2026-44331
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-juniper-secure-analytics
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-sandboxie-per-windows
+https://www.acn.gov.it/portale/w/palo-alto-pan-os-rilevato-sfruttamento-in-rete-della-cve-2026-0300
+https://www.acn.gov.it/portale/w/campagna-phishing-impatta-utenti-di-n26-al02/210330/csirt-ita-
