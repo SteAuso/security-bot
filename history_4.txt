@@ -1,5 +1,3 @@
-https://darkwebinformer.com/taiseer-taiseer-co-database-breached-threat-actor-sorb-offering-pii-of-egyptian-gold-investors-for-sale/
-https://darkwebinformer.com/daily-dose-of-dark-web-informer-april-20th-2026/
 https://darkwebinformer.com/ledil-immobilier-ledil-immo-database-breached-threat-actor-888-leaks-6-700-french-real-estate-user-records/
 https://darkwebinformer.com/arkansas-state-crime-lab-database-breached-threat-actor-kittykatkrew-leaks-court-calendars-and-law-enforcement-personnel-directory/
 https://darkwebinformer.com/den-kulturelle-skolesekken-dks-database-breached-1-389-534-records-exposed-from-norways-national-cultural-schoolbag-programme/
@@ -28,3 +26,5 @@ https://darkwebinformer.com/belgian-sports-fitness-chain-allegedly-breached-expo
 https://darkwebinformer.com/laboratorios-ceflo-allegedly-breached-exposing-21k-positive-hiv-syphilis-and-covid-test-results-from-the-mexican-lab/
 https://darkwebinformer.com/antel-tuid-digital-allegedly-breached-exposing-8gb-of-data-from-the-uruguayan-state-telecoms-e-government-platform/
 https://darkwebinformer.com/us-non-emergency-medical-transport-network-allegedly-breached-exposing-500k-patient-records-and-live-admin-access/
+https://darkwebinformer.com/homes-at-world-allegedly-leaked-exposing-7-million-real-estate-agent-and-investor-records/
+https://darkwebinformer.com/ivanti-warns-of-new-epmm-zero-day-exploited-using-credentials-stolen-in-january-attacks/
