@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/sinology-risolte-vulnerabilita-in-diskstation-manager
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-android-13
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-sonicwall
-https://www.acn.gov.it/portale/w/cpanel-whm-e-wp-squared-poc-pubblico-per-lo-sfruttamento-della-cve-2026-41940
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-progress-telerik
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-24
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mongodb-4
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-hikvision-1
 https://www.acn.gov.it/portale/w/tenable-sanata-vulnerabilita-in-nessus-3
 https://www.acn.gov.it/portale/w/vulnerabilita-in-oracle-mcp
 https://www.acn.gov.it/portale/w/poc-pubblici-per-vulnerabilita-nella-libreria-vm2-per-node.js
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mastodon
+https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-grafana-tempo-1
+https://www.acn.gov.it/portale/w/bitwarden-cli-rilevata-distribuzione-di-versione-malevola-tramite-attacco-alla-supply-chain
+https://www.acn.gov.it/portale/w/poc-pubblici-per-vulnerabilita-nella-libreria-vm2-per-node-js
