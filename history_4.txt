@@ -1,4 +1,3 @@
-https://darkwebinformer.com/when-the-defenders-become-the-attackers-two-u-s-cybersecurity-pros-sentenced-in-blackcat-ransomware-case/
 https://darkwebinformer.com/the-cpanel-situation-is-spiraling-fast/
 https://darkwebinformer.com/when-the-watchman-gets-watched-trellix-discloses-source-code-breach/
 https://darkwebinformer.com/copy-fail-lands-on-cisas-kev-a-nine-year-old-linux-bug-becomes-a-patch-deadline/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/german-authorities-shut-down-revived-crimenetwork-pl
 https://darkwebinformer.com/mansoura-university-allegedly-leaked-exposing-731-contact-records-from-the-egyptian-academic-institution/
 https://darkwebinformer.com/google-threat-intelligence-group-reports-first-known-ai-developed-zero-day-exploit/
 https://darkwebinformer.com/sawtad-allegedly-leaked-exposing-2-211-files-2-19-gb-of-saw-sensor-diaper-tech-r-d-and-spmet-metrology-archive/
+https://darkwebinformer.com/kams-paris-allegedly-breached-exposing-187-927-customer-records-from-the-french-niche-perfumery/
