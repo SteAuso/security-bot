@@ -1,9 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-zabbix-3
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-schneider-electric-11
-https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-21
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-drupal
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-apache-http-server
-https://www.acn.gov.it/portale/w/ivanti-rilevate-nuove-vulnerabilita-di-cui-una-di-tipo-zero-day
 https://www.acn.gov.it/portale/w/operational-summary-marzo-2026
 https://www.acn.gov.it/portale/w/dirty-frag-poc-e-sfruttamento-di-vulnerabilita-per-l-elevazione-di-privilegi-in-linux
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-13
@@ -48,3 +42,9 @@ https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-15
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-20
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-jetbrains
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-10
+https://www.acn.gov.it/portale/w/campagna-phishing-impatta-utenti-di-n26-al02/210330/csirt-ita-
+https://www.acn.gov.it/portale/w/wazuh-poc-pubblico-per-lo-sfruttamento-della-cve-2026-30893
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-zyxel
+https://www.acn.gov.it/portale/w/d-link-poc-pubblico-per-lo-sfruttamento-della-cve-2026-8260
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mongodb-6
+https://www.acn.gov.it/portale/w/exim-poc-pubblico-per-lo-sfruttamento-della-cve-2026-45185
