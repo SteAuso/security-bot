@@ -1,4 +1,3 @@
-https://darkwebinformer.com/critical-apache-http-2-double-free-flaw-enables-denial-of-service-and-potential-remote-code-execution/
 https://darkwebinformer.com/52-3-bitcoin-and-a-suburban-search-warrant-inside-one-of-australias-biggest-crypto-seizures/
 https://darkwebinformer.com/cloudz-rat-a-stealthy-new-trojan-hijacks-microsoft-phone-link-to-steal-your-sms-otps/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-6th-2026/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/akitatek-allegedly-breached-exposing-5-400-customer-
 https://darkwebinformer.com/ministry-of-health-of-vietnam-allegedly-breached-exposing-480-000-medical-staff-records-from-the-vietnamese-government-health-authority/
 https://darkwebinformer.com/sivvi-allegedly-breached-approximately-300-000-customer-records-reposted-from-the-dubai-based-fashion-e-commerce-platform/
 https://darkwebinformer.com/ntn-bearing-corporation-of-america-allegedly-hit-by-payoutsking-ransomware-596-gb-exfiltrated-from-the-american-ball-and-roller-bearing-manufacturer-including-us-army-jltv-program-docum/
+https://darkwebinformer.com/german-national-indicted-over-money-laundering-tied-to-defunct-dream-market-darknet-marketplace/
