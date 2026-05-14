@@ -1,8 +1,3 @@
-https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-php
-https://www.acn.gov.it/portale/w/n8n-poc-pubblico-per-lo-sfruttamento-della-cve-2026-42231
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-cpanel
-https://www.acn.gov.it/portale/w/ivanti-may-security-update-1
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-android-13
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-progress-telerik
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-spring-1
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-5
@@ -48,3 +43,8 @@ https://www.acn.gov.it/portale/w/operational-summary-marzo-2026
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-21
 https://www.acn.gov.it/portale/w/dirty-frag-poc-e-sfruttamento-di-vulnerabilita-per-l-elevazione-di-privilegi-in-linux
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-mozilla-firefox
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-hikvision-1
+https://www.acn.gov.it/portale/w/poc-pubblici-per-vulnerabilita-nella-libreria-vm2-per-node-js
+https://www.acn.gov.it/portale/w/supply-chain-attack-rilevata-distribuzione-di-versione-malevola-di-jdownloader
+https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-13
+https://www.acn.gov.it/portale/w/supply-chain-attack-rilevata-nuova-ondata-di-compromissione-pacchetti-npm
