@@ -1,4 +1,3 @@
-https://darkwebinformer.com/belgian-sports-fitness-chain-allegedly-breached-exposing-105k-customer-records-with-iban-data/
 https://darkwebinformer.com/laboratorios-ceflo-allegedly-breached-exposing-21k-positive-hiv-syphilis-and-covid-test-results-from-the-mexican-lab/
 https://darkwebinformer.com/antel-tuid-digital-allegedly-breached-exposing-8gb-of-data-from-the-uruguayan-state-telecoms-e-government-platform/
 https://darkwebinformer.com/us-non-emergency-medical-transport-network-allegedly-breached-exposing-500k-patient-records-and-live-admin-access/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/mutreasury-allegedly-breached-admin-credentials-and-
 https://darkwebinformer.com/xacria-xno-allegedly-breached-446-service-orders-and-subscriber-pii-exposed-from-the-italian-carrier-grade-telecom-network-orchestration-platform-used-by-fastweb-and-sky-italia-a-threat/
 https://darkwebinformer.com/burkina-faso-passport-id-records-allegedly-leaked-50k-scanned-identity-documents-exposed-online/
 https://darkwebinformer.com/cve-2026-20182-critical-cisco-sd-wan-auth-bypass-under-active-exploitation/
+https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-14th-2026/
