@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/sap-security-patch-day-16
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-sandboxie-per-windows
 https://www.acn.gov.it/portale/w/palo-alto-pan-os-rilevato-sfruttamento-in-rete-della-cve-2026-0300
 https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-15
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-20
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-redis
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-spring-cloud-config
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-prodotti-hpe-aruba-networking
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-proftpd-poc-pubblico-per-lo-sfruttamento-della-cve-2026-44331
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-juniper-secure-analytics
+https://www.acn.gov.it/portale/w/langflow-poc-pubblico-per-lo-sfruttamento-della-cve-2026-42048
