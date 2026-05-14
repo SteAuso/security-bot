@@ -1,4 +1,3 @@
-https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-6th-2026/
 https://darkwebinformer.com/indonesias-ministry-of-energy-and-mineral-resources-esdm-allegedly-leaked-exposing-fuel-oil-distributor-records/
 https://darkwebinformer.com/moreideas-general-trading-allegedly-re-leaked-exposing-787-217-student-records-from-the-dubai-edtech-firm/
 https://darkwebinformer.com/belgian-sports-fitness-chain-allegedly-breached-exposing-105k-customer-records-with-iban-data/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/ntn-bearing-corporation-of-america-allegedly-hit-by-
 https://darkwebinformer.com/german-national-indicted-over-money-laundering-tied-to-defunct-dream-market-darknet-marketplace/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-13th-2026/
 https://darkwebinformer.com/mutreasury-allegedly-breached-admin-credentials-and-api-keys-exposed-from-the-egyptian-university-payment-gateway-covering-28-universities-sold-with-a-zero-day-vulnerability/
+https://darkwebinformer.com/xacria-xno-allegedly-breached-446-service-orders-and-subscriber-pii-exposed-from-the-italian-carrier-grade-telecom-network-orchestration-platform-used-by-fastweb-and-sky-italia-a-threat/
