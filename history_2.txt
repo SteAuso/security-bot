@@ -1,10 +1,3 @@
-https://www.acn.gov.it/portale/w/microsoft-disponibili-poc-per-lo-sfruttamento-di-vulnerabilita-zero-day
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-nextcloud
-https://www.acn.gov.it/portale/w/palo-alto-pan-os-rilevato-sfruttamento-in-rete-della-cve-2026-0300
-https://www.acn.gov.it/portale/w/campagna-phishing-impatta-utenti-di-n26-al02/210330/csirt-ita-
-https://www.acn.gov.it/portale/w/wazuh-poc-pubblico-per-lo-sfruttamento-della-cve-2026-30893
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-zyxel
-https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-15
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-20
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-jetbrains
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-10
@@ -48,3 +41,10 @@ https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-prodotti-hpe-aru
 https://www.acn.gov.it/portale/w/langflow-poc-pubblico-per-lo-sfruttamento-della-cve-2026-42048
 https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotti-cisco-1
 https://www.acn.gov.it/portale/w/microsoft-rilevato-sfruttamento-attivo-della-cve-2026-41615
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-palo-alto-networks-1
+https://www.acn.gov.it/portale/w/craft-cms-disponibili-poc-per-lo-sfruttamento-delle-cve-2026-44010-e-cve-2026-44011
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-vmware-4
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-14
+https://www.acn.gov.it/portale/w/fragnesia-poc-per-lo-sfruttamento-di-una-nuova-vulnerabilita-nel-kernel-linux
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-grafana-4
+https://www.acn.gov.it/portale/w/f5-disponibile-poc-per-lo-sfruttamento-della-cve-2026-42945
