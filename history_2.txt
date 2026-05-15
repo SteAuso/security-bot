@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/d-link-poc-pubblico-per-lo-sfruttamento-della-cve-2026-8260
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-schneider-electric-11
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mongodb-6
-https://www.acn.gov.it/portale/w/exim-poc-pubblico-per-lo-sfruttamento-della-cve-2026-45185
 https://www.acn.gov.it/portale/w/campagna-di-phishing-a-tema-mancato-pagamento-del-pedaggio-autostradale-
 https://www.acn.gov.it/portale/w/operational-summary-marzo-2026
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-21
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-15
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-nextcloud
 https://www.acn.gov.it/portale/w/microsoft-disponibili-poc-per-lo-sfruttamento-di-vulnerabilita-zero-day
 https://www.acn.gov.it/portale/w/rilevate-attivita-di-scansione-e-tentativi-di-sfruttamento-su-applicativi-web-esposti
+https://www.acn.gov.it/portale/w/ivanti-rilevate-nuove-vulnerabilita-di-cui-una-di-tipo-zero-day
+https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-20
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-jetbrains
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-10
