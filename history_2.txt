@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-spring-1
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-5
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-24
 https://www.acn.gov.it/portale/w/next.js-aggiornamenti-di-sicurezza-1
 https://www.acn.gov.it/portale/w/sap-rilevata-distribuzione-di-versione-malevola-tramite-attacco-alla-supply-chain
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-13
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-php
 https://www.acn.gov.it/portale/w/n8n-poc-pubblico-per-lo-sfruttamento-della-cve-2026-42231
 https://www.acn.gov.it/portale/w/supply-chain-attack-rilevata-nuova-ondata-di-compromissione-pacchetti-npm
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-cpanel
+https://www.acn.gov.it/portale/w/ivanti-may-security-update-1
