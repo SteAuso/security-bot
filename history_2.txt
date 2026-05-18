@@ -1,6 +1,3 @@
-https://www.acn.gov.it/portale/w/sap-security-patch-day-16
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-prodotti-hpe-aruba-networking
-https://www.acn.gov.it/portale/w/langflow-poc-pubblico-per-lo-sfruttamento-della-cve-2026-42048
 https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotti-cisco-1
 https://www.acn.gov.it/portale/w/microsoft-rilevato-sfruttamento-attivo-della-cve-2026-41615
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-palo-alto-networks-1
@@ -48,3 +45,6 @@ https://www.acn.gov.it/portale/w/microsoft-rilevato-sfruttamento-attivo-della-cv
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-joomla
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-postgresql-1
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-della-libreria-crypt-openssl-pkcs12-per-perl
+https://www.acn.gov.it/portale/w/open-webui-poc-pubblico-per-lo-sfruttamento-della-cve-2026-44565
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mongodb-6
+https://www.acn.gov.it/portale/w/miniplasma-poc-per-lo-sfruttamento-di-una-vulnerabilita-microsoft
