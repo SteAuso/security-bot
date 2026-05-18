@@ -1,4 +1,3 @@
-https://darkwebinformer.com/homes-at-world-allegedly-leaked-exposing-7-million-real-estate-agent-and-investor-records/
 https://darkwebinformer.com/ivanti-warns-of-new-epmm-zero-day-exploited-using-credentials-stolen-in-january-attacks/
 https://darkwebinformer.com/community-choice-credit-union-allegedly-breached-exposing-1m-premium-credit-client-records/
 https://darkwebinformer.com/ldlc-allegedly-leaked-exposing-1-5-million-customer-records-from-the-french-tech-retailer/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-14th-2026/
 https://darkwebinformer.com/icaro-cloud-allegedly-breached-firewall-configs-vpn-keys-tls-certificates-and-internal-network-data-exposed-across-20-spanish-corporate-networks/
 https://darkwebinformer.com/auchan-allegedly-breached-1-29m-customer-database-entries-exposed-from-french-retail-records/
 https://darkwebinformer.com/stych-allegedly-breached-1-34m-customer-database-entries-exposed-from-french-mobility-service-records/
+https://darkwebinformer.com/perm-national-research-polytechnic-university-allegedly-breached-362k-internal-student-research-system-records-leaked/
