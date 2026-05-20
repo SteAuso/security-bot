@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/sap-rilevata-distribuzione-di-versione-malevola-tramite-attacco-alla-supply-chain
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-49
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-watchguard
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-50
 https://www.acn.gov.it/portale/w/microsoft-rilevato-sfruttamento-attivo-della-cve-2026-42897
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-joomla
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-postgresql-1
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-cpanel
 https://www.acn.gov.it/portale/w/ivanti-may-security-update-1
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-ruby-5
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-mozilla
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-spring-1
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-5
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-memcached
+https://www.acn.gov.it/portale/w/cpanel-whm-e-wp-squared-poc-pubblico-per-lo-sfruttamento-della-cve-2026-29205
