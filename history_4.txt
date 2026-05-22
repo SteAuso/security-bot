@@ -1,4 +1,3 @@
-https://darkwebinformer.com/public-authority-for-civil-information-allegedly-breached-exposing-5-23-million-kuwaiti-citizen-records-from-the-kuwaiti-government-identity-authority/
 https://darkwebinformer.com/futureshop-egypt-allegedly-breached-exposing-thousands-of-customer-order-and-delivery-records-from-the-egyptian-grocery-delivery-platform/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-12th-2026/
 https://darkwebinformer.com/akitatek-allegedly-breached-exposing-5-400-customer-records-from-the-french-it-services-and-electronics-repair-company/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/mexican-citizenship-document-service-advertised-on-u
 https://darkwebinformer.com/atoa-allegedly-exposed-23-685-fintech-records-and-326-kyc-document-archives/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-21st-2026/
 https://darkwebinformer.com/hillpointe-allegedly-targeted-2-5m-u-s-housing-development-customer-and-employee-records-leaked/
+https://darkwebinformer.com/cve-2026-48172-critical-litespeed-cpanel-plugin-flaw-exploited-for-privilege-escalation/
