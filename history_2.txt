@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-14
-https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotti-cisco-1
 https://www.acn.gov.it/portale/w/fragnesia-poc-per-lo-sfruttamento-di-una-nuova-vulnerabilita-nel-kernel-linux
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-grafana-4
 https://www.acn.gov.it/portale/w/f5-disponibile-poc-per-lo-sfruttamento-della-cve-2026-42945
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mongodb-6
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-della-libreria-crypt-openssl-pkcs12-per-perl
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-palo-alto-networks-1
 https://www.acn.gov.it/portale/w/miniplasma-poc-per-lo-sfruttamento-di-una-vulnerabilita-microsoft
+https://www.acn.gov.it/portale/w/craft-cms-disponibili-poc-per-lo-sfruttamento-delle-cve-2026-44010-e-cve-2026-44011
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-vmware-4
