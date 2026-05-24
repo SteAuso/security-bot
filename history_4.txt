@@ -1,4 +1,3 @@
-https://darkwebinformer.com/german-national-indicted-over-money-laundering-tied-to-defunct-dream-market-darknet-marketplace/
 https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-13th-2026/
 https://darkwebinformer.com/mutreasury-allegedly-breached-admin-credentials-and-api-keys-exposed-from-the-egyptian-university-payment-gateway-covering-28-universities-sold-with-a-zero-day-vulnerability/
 https://darkwebinformer.com/xacria-xno-allegedly-breached-446-service-orders-and-subscriber-pii-exposed-from-the-italian-carrier-grade-telecom-network-orchestration-platform-used-by-fastweb-and-sky-italia-a-threat/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/chilean-fire-department-system-allegedly-breached-vi
 https://darkwebinformer.com/optic-2000-allegedly-targeted-invoice-files-franchise-data-and-customer-records-exposed/
 https://darkwebinformer.com/avea-vacances-allegedly-breached-46k-french-holiday-camp-records-exposed/
 https://darkwebinformer.com/spanish-aerospace-manufacturer-mym-listed-in-alleged-ransomware-data-theft-postspanish-aerospace-manufacturer-mym-listed-in-alleged-ransomware-data-theft-post/
+https://darkwebinformer.com/brazilian-erp-software-house-sisplan-sistemas-listed-in-alleged-source-code-database-sale/
