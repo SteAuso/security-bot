@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-critica-n8n
 https://www.acn.gov.it/portale/w/microsoft-disponibili-poc-per-lo-sfruttamento-di-vulnerabilita-zero-day
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-jetbrains
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-10
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-grafana-4
 https://www.acn.gov.it/portale/w/f5-disponibile-poc-per-lo-sfruttamento-della-cve-2026-42945
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-nextcloud
 https://www.acn.gov.it/portale/w/rilevate-attivita-di-scansione-e-tentativi-di-sfruttamento-su-applicativi-web-esposti
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-nella-libreria-gnu-sasl
