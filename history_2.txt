@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-25
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-51
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-portainer
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-misp-project
 https://www.acn.gov.it/portale/w/langflow-rilevato-sfruttamento-della-cve-2025-34291
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mattermost
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-per-connectwise-automate
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-alta-per-freepbx
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-trend-micro-1
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mongodb-6
+https://www.acn.gov.it/portale/w/sanata-vulnerabilita-in-prodotti-zoho-corporation
