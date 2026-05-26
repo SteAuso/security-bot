@@ -1,4 +1,3 @@
-https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-18th-2026/
 https://darkwebinformer.com/nirvasa-allegedly-breached-3-5k-healthcare-platform-user-records-advertised-for-sale/
 https://darkwebinformer.com/watiqa-ma-allegedly-breached-695k-moroccan-civil-document-platform-records-exposed/
 https://darkwebinformer.com/canada-beauty-salon-database-shared-1m-business-lead-records-posted-from-beauty-and-cosmetics-sector/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/alleged-130k-record-mercedes-automobile-customer-dat
 https://darkwebinformer.com/chinese-marketplace-vigorbuy-com-hit-by-alleged-mysql-dump-with-payment-credential-data/
 https://darkwebinformer.com/mexican-process-automation-firm-dci-group-hit-by-alleged-leak-of-240k-national-ids-mortgage-data/
 https://darkwebinformer.com/french-diy-marketplace-manomano-hit-by-alleged-178k-record-customer-order-leak/
+https://darkwebinformer.com/alleged-live-access-to-a-spanish-public-sector-payroll-portal-offered-for-sale/
