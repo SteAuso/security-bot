@@ -1,7 +1,3 @@
-https://darkwebinformer.com/wiserp-allegedly-targeted-1-5m-u-s-erp-customer-records-advertised-in-auction/
-https://darkwebinformer.com/chilean-fire-department-system-allegedly-breached-viper-platform-records-and-internal-documents-exposed/
-https://darkwebinformer.com/optic-2000-allegedly-targeted-invoice-files-franchise-data-and-customer-records-exposed/
-https://darkwebinformer.com/avea-vacances-allegedly-breached-46k-french-holiday-camp-records-exposed/
 https://darkwebinformer.com/spanish-aerospace-manufacturer-mym-listed-in-alleged-ransomware-data-theft-postspanish-aerospace-manufacturer-mym-listed-in-alleged-ransomware-data-theft-post/
 https://darkwebinformer.com/brazilian-erp-software-house-sisplan-sistemas-listed-in-alleged-source-code-database-sale/
 https://darkwebinformer.com/philippine-ramen-chain-ramen-kuroda-hit-by-alleged-7m-record-customer-database-leak/
@@ -28,3 +24,7 @@ https://darkwebinformer.com/mexican-civil-protection-training-portal-hit-by-alle
 https://darkwebinformer.com/bermudian-financial-service-easypay-hit-by-alleged-full-database-leak-with-2m-transactions-10k-cards/
 https://darkwebinformer.com/brazilian-food-delivery-giant-ifood-targeted-in-alleged-43-8m-record-customer-data-extortion/
 https://darkwebinformer.com/french-government-platform-resana-listed-in-alleged-990k-record-user-data-sale/
+https://darkwebinformer.com/french-real-estate-platform-figaro-immobilier-hit-by-alleged-100k-invoice-leak/
+https://darkwebinformer.com/french-real-estate-tour-platform-envisite-hit-by-alleged-138k-record-leak/
+https://darkwebinformer.com/one-forged-header-unauthenticated-authentication-bypass-in-fortinet-forticlient-ems-cve-2026-35616/
+https://darkwebinformer.com/us-student-mental-health-provider-mindpath-college-health-listed-on-ransomware-leak-site/
