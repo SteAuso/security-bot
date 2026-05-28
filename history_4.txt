@@ -1,5 +1,3 @@
-https://darkwebinformer.com/cve-2026-48172-critical-litespeed-cpanel-plugin-flaw-exploited-for-privilege-escalation/
-https://darkwebinformer.com/pakistani-government-agencies-allegedly-targeted-in-multi-department-personnel-database-leak/
 https://darkwebinformer.com/wiserp-allegedly-targeted-1-5m-u-s-erp-customer-records-advertised-in-auction/
 https://darkwebinformer.com/chilean-fire-department-system-allegedly-breached-viper-platform-records-and-internal-documents-exposed/
 https://darkwebinformer.com/optic-2000-allegedly-targeted-invoice-files-franchise-data-and-customer-records-exposed/
@@ -28,3 +26,5 @@ https://darkwebinformer.com/mexican-instituto-tecnologico-de-zacatepec-named-in-
 https://darkwebinformer.com/french-campsite-federation-fnhpa-hit-by-alleged-9k-member-invoice-leak/
 https://darkwebinformer.com/mexican-civil-protection-training-portal-hit-by-alleged-admin-compromise-credential-leak/
 https://darkwebinformer.com/bermudian-financial-service-easypay-hit-by-alleged-full-database-leak-with-2m-transactions-10k-cards/
+https://darkwebinformer.com/brazilian-food-delivery-giant-ifood-targeted-in-alleged-43-8m-record-customer-data-extortion/
+https://darkwebinformer.com/french-government-platform-resana-listed-in-alleged-990k-record-user-data-sale/
