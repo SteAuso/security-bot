@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/vulnerabilita-in-roundcube-webmail-3
-https://www.acn.gov.it/portale/w/daemon-tools-lite-rilevato-sfruttamento-della-cve-2026-8398
-https://www.acn.gov.it/portale/w/notepad-poc-pubblici-per-le-cve-2026-48800-cve-2026-48778-e-cve-2026-48770
-https://www.acn.gov.it/portale/w/7-zip-poc-pubblico-per-lo-sfruttamento-della-cve-2026-48095
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-alta-per-freepbx
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mongodb-6
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-25
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/microsoft-disponibili-poc-per-lo-sfruttamento-d
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-15
 https://www.acn.gov.it/portale/w/gladinet-disponibili-poc-per-nuove-vulnerabilita-in-triofox
 https://www.acn.gov.it/portale/w/rilevata-nuova-vulnerabilita-in-prodotti-tp-link
+https://www.acn.gov.it/portale/w/supply-chain-attack-compromissione-di-repository-github-tramite-estensione-malevola
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-freepbx
+https://www.acn.gov.it/portale/w/nordvpn-poc-pubblico-per-lo-sfruttamento-della-cve-2018-25368
+https://www.acn.gov.it/portale/w/dataease-disponibile-poc-per-lo-sfruttamento-di-vulnerabilita
