@@ -1,4 +1,3 @@
-https://darkwebinformer.com/romanian-education-platform-edusal-hit-by-alleged-331k-record-teacher-admin-data-dump/
 https://darkwebinformer.com/mexican-university-ut-sierra-hidalguense-named-in-alleged-student-database-leak/
 https://darkwebinformer.com/iranian-mobile-operator-mci-listed-in-alleged-internal-network-infrastructure-leak/
 https://darkwebinformer.com/undisclosed-ai-chat-platform-listed-in-alleged-customer-data-sale-with-card-details/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/daily-dose-of-dark-web-informer-may-28th-2026/
 https://darkwebinformer.com/french-real-estate-co-op-platform-amepi-hit-by-alleged-6k-record-leak/
 https://darkwebinformer.com/argentine-healthcare-provider-swiss-medical-listed-in-alleged-458k-record-member-data-sale/
 https://darkwebinformer.com/root-in-one-request-pre-auth-rce-in-marimo-cve-2026-39987/
+https://darkwebinformer.com/australian-workplace-catering-platform-hampr-hit-by-alleged-360k-record-leak/
