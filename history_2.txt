@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-misp-project
-https://www.acn.gov.it/portale/w/langflow-rilevato-sfruttamento-della-cve-2025-34291
-https://www.acn.gov.it/portale/w/nuove-vulnerabilita-in-samba
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-joomla-1
 https://www.acn.gov.it/portale/w/synology-risolte-vulnerabilita-in-chat-server-per-diskstation-manager
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-memcached
 https://www.acn.gov.it/portale/w/cpanel-whm-e-wp-squared-poc-pubblico-per-lo-sfruttamento-della-cve-2026-29205
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-trend-micro-1
 https://www.acn.gov.it/portale/w/sanata-vulnerabilita-in-prodotti-zoho-corporation
 https://www.acn.gov.it/portale/w/flowiseai-poc-pubblico-per-lo-sfruttamento-della-cve-2026-40933
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-jetbrains-4
+https://www.acn.gov.it/portale/w/microsoft-rilevato-sfruttamento-attivo-di-nuove-vulnerabilita
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-splunk-2
+https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-plesk-1
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-airflow
