@@ -1,6 +1,3 @@
-https://darkwebinformer.com/mexican-university-ut-sierra-hidalguense-named-in-alleged-student-database-leak/
-https://darkwebinformer.com/iranian-mobile-operator-mci-listed-in-alleged-internal-network-infrastructure-leak/
-https://darkwebinformer.com/undisclosed-ai-chat-platform-listed-in-alleged-customer-data-sale-with-card-details/
 https://darkwebinformer.com/french-retailer-la-redoute-hit-by-alleged-96k-record-customer-delivery-data-dump/
 https://darkwebinformer.com/colombian-bpo-contactmaster-bpo-listed-in-alleged-access-sale-tied-to-claro-movil-colombia/
 https://darkwebinformer.com/alleged-130k-record-mercedes-automobile-customer-database-advertised-on-forum/
@@ -28,3 +25,6 @@ https://darkwebinformer.com/french-real-estate-co-op-platform-amepi-hit-by-alleg
 https://darkwebinformer.com/argentine-healthcare-provider-swiss-medical-listed-in-alleged-458k-record-member-data-sale/
 https://darkwebinformer.com/root-in-one-request-pre-auth-rce-in-marimo-cve-2026-39987/
 https://darkwebinformer.com/australian-workplace-catering-platform-hampr-hit-by-alleged-360k-record-leak/
+https://darkwebinformer.com/threat-actor-claims-to-sell-live-web-shell-access-to-a-nasa-web-application/
+https://darkwebinformer.com/threat-actor-claims-to-leak-an-inegi-mexico-database-dump-122k-businesses-30k-pii-records/
+https://darkwebinformer.com/threat-actor-claims-to-sell-24-million-confidential-seniat-venezuela-tax-records-30-gb/
