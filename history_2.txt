@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/synology-risolte-vulnerabilita-in-chat-server-per-diskstation-manager
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-memcached
-https://www.acn.gov.it/portale/w/cpanel-whm-e-wp-squared-poc-pubblico-per-lo-sfruttamento-della-cve-2026-29205
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-windmill
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-atlassian
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-6
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-7
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/microsoft-rilevato-sfruttamento-attivo-di-nuove
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-splunk-2
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-plesk-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-airflow
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-misp-project
+https://www.acn.gov.it/portale/w/langflow-rilevato-sfruttamento-della-cve-2025-34291
+https://www.acn.gov.it/portale/w/nuove-vulnerabilita-in-samba
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-joomla-1
