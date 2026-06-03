@@ -1,4 +1,3 @@
-https://darkwebinformer.com/chinese-marketplace-vigorbuy-com-hit-by-alleged-mysql-dump-with-payment-credential-data/
 https://darkwebinformer.com/mexican-process-automation-firm-dci-group-hit-by-alleged-leak-of-240k-national-ids-mortgage-data/
 https://darkwebinformer.com/french-diy-marketplace-manomano-hit-by-alleged-178k-record-customer-order-leak/
 https://darkwebinformer.com/alleged-live-access-to-a-spanish-public-sector-payroll-portal-offered-for-sale/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/threat-actor-claims-to-sell-24-million-confidential-
 https://darkwebinformer.com/threat-actor-claims-to-sell-a-110-gb-iberdrola-customer-database-affecting-7-million-customers/
 https://darkwebinformer.com/threat-actor-claims-to-leak-10-000-records-from-the-nayarit-public-property-registry/
 https://darkwebinformer.com/threat-actor-claims-to-sell-58k-confidential-sunacoop-venezuela-cooperative-records/
+https://darkwebinformer.com/threat-actor-claims-to-sell-a-carvivo-automotive-lead-database-affecting-millions-in-france/
