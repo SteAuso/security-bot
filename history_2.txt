@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/operational-summary-marzo-2026
-https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-prodotti-check-point
-https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-symfony
-https://www.acn.gov.it/portale/w/qilin-campagne-di-sfruttamento-sistematico-e-diffusione-del-ransomware-sul-territorio-nazionale
 https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-prodotti-asus
 https://www.acn.gov.it/portale/w/campagna-di-phishing-a-tema-atac-s.p.a.-
 https://www.acn.gov.it/portale/w/supply-chain-attack-compromissione-di-repository-github-tramite-estensione-malevola
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotto-drupal-core
 https://www.acn.gov.it/portale/w/f5-risolta-vulnerabilita-in-nginx
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-per-prodotti-veeam
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-52
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-nella-libreria-gnu-sasl
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-elastic-1
+https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-7
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-palo-alto-networks-1
