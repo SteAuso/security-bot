@@ -1,8 +1,3 @@
-https://darkwebinformer.com/saudi-portal-nitaqat-listed-in-alleged-437k-record-contacts-crm-data-sale/
-https://darkwebinformer.com/mexican-instituto-tecnologico-de-zacatepec-named-in-alleged-student-database-leak/
-https://darkwebinformer.com/french-campsite-federation-fnhpa-hit-by-alleged-9k-member-invoice-leak/
-https://darkwebinformer.com/mexican-civil-protection-training-portal-hit-by-alleged-admin-compromise-credential-leak/
-https://darkwebinformer.com/bermudian-financial-service-easypay-hit-by-alleged-full-database-leak-with-2m-transactions-10k-cards/
 https://darkwebinformer.com/brazilian-food-delivery-giant-ifood-targeted-in-alleged-43-8m-record-customer-data-extortion/
 https://darkwebinformer.com/french-government-platform-resana-listed-in-alleged-990k-record-user-data-sale/
 https://darkwebinformer.com/french-real-estate-platform-figaro-immobilier-hit-by-alleged-100k-invoice-leak/
@@ -28,3 +23,8 @@ https://darkwebinformer.com/root-me-leak-hacker-claims-to-dump-15-200-challenge-
 https://darkwebinformer.com/viva-entertainment-data-breach-hackers-claim-to-dump-10gb-of-internal-data/
 https://darkwebinformer.com/tradeify-data-breach-hacker-claims-to-leak-240k-customer-records/
 https://darkwebinformer.com/california-man-gets-more-than-26-years-for-running-a-dark-web-meth-and-fentanyl-store/
+https://darkwebinformer.com/phish-feed/
+https://darkwebinformer.com/brpdv-data-breach-542k-brazilian-invoices-and-customer-records-leaked/
+https://darkwebinformer.com/tayara-data-breach-hacker-claims-2m-tunisian-user-records-for-sale/
+https://darkwebinformer.com/okcupid-data-scrape-hacker-claims-to-sell-35m-user-records/
+https://darkwebinformer.com/leboncoin-immobilier-data-leak-4m-french-property-listings-exposed/
