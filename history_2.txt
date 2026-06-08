@@ -1,9 +1,3 @@
-https://www.acn.gov.it/portale/w/langflow-poc-pubblico-per-lo-sfruttamento-della-cve-2026-48519
-https://www.acn.gov.it/portale/w/dirty-frag-poc-e-sfruttamento-di-vulnerabilita-per-l-elevazione-di-privilegi-in-linux
-https://www.acn.gov.it/portale/w/campagna-di-phishing-a-tema-mancato-pagamento-del-pedaggio-autostradale-
-https://www.acn.gov.it/portale/w/operational-summary-aprile-2026
-https://www.acn.gov.it/portale/w/parallels-desktop-poc-pubblici-per-le-cve-2024-54189-cve-2025-31359-cve-2024-52561-e-cve-2024-36486
-https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotto-cisco
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-53
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-sqlite
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-15
@@ -48,3 +42,9 @@ https://www.acn.gov.it/portale/w/tp-link-sanate-vulnerabilita-in-tapo-c520ws-v2
 https://www.acn.gov.it/portale/w/http/2-bomb-disponibili-poc-per-lo-sfruttamento-di-vulnerabilita-nel-protocollo
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-gl.inet
 https://www.acn.gov.it/portale/w/supply-chain-attack-rilevata-distribuzione-di-versione-malevola-di-jdownloader
+https://www.acn.gov.it/portale/w/qilin-campagne-di-sfruttamento-sistematico-e-diffusione-del-ransomware-sul-territorio-nazionale
+https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-prodotti-asus
+https://www.acn.gov.it/portale/w/campagna-di-phishing-a-tema-atac-s.p.a.-
+https://www.acn.gov.it/portale/w/weblogic-sfruttamento-attivo-in-rete-della-cve-2024-21182
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-spring-2
+https://www.acn.gov.it/portale/w/vulnerabilita-in-strongswan-2
