@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-palo-alto-networks-1
-https://www.acn.gov.it/portale/w/tp-link-sanate-vulnerabilita-in-tapo-c520ws-v2
-https://www.acn.gov.it/portale/w/http/2-bomb-disponibili-poc-per-lo-sfruttamento-di-vulnerabilita-nel-protocollo
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-gl.inet
 https://www.acn.gov.it/portale/w/supply-chain-attack-rilevata-distribuzione-di-versione-malevola-di-jdownloader
 https://www.acn.gov.it/portale/w/qilin-campagne-di-sfruttamento-sistematico-e-diffusione-del-ransomware-sul-territorio-nazionale
 https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-prodotti-asus
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/supply-chain-attack-compromissione-di-pacchetti
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-android-14
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-vmware-5
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-gogs
+https://www.acn.gov.it/portale/w/solarwinds-sfruttamento-attivo-in-rete-della-cve-2026-28318
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-comodo-internet-security
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-nei-componenti-x.org
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-qnap-8
