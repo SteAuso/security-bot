@@ -1,9 +1,3 @@
-https://www.acn.gov.it/portale/w/sap-security-patch-day-17
-https://www.acn.gov.it/portale/w/check-point-sfruttamento-attivo-in-rete-della-cve-2026-50751
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-6
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotto-ivanti
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-9
-https://www.acn.gov.it/portale/w/supply-chain-attack-compromissione-di-pacchetti-npm-nel-namespace-redhat-cloud-services
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-android-14
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-vmware-5
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-gogs
@@ -48,3 +42,9 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-componenti-uefi-shim
 https://www.acn.gov.it/portale/w/vulnerabilita-nel-modulo-cpython-bz2-
 https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-jenkins-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mongodb-7
+https://www.acn.gov.it/portale/w/cisco-cucm-disponibile-poc-per-lo-sfruttamento-di-vulnerabilita
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-qualcomm-8
+https://www.acn.gov.it/portale/w/vulnerabilita-in-solarwinds-4
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-ibm-websphere
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-54
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-http-server
