@@ -1,9 +1,3 @@
-https://www.acn.gov.it/portale/w/daemon-tools-lite-rilevato-sfruttamento-della-cve-2026-8398
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-misp-project-1
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mariadb
-https://www.acn.gov.it/portale/w/progress-software-aggiornamenti-di-sicurezza-5
-https://www.acn.gov.it/portale/w/flowiseai-poc-pubblico-per-lo-sfruttamento-della-cve-2026-40933
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-jetbrains-4
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-plesk-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-airflow
 https://www.acn.gov.it/portale/w/cisco-cucm-disponibile-poc-per-lo-sfruttamento-di-vulnerabilita
@@ -48,3 +42,9 @@ https://www.acn.gov.it/portale/w/parallels-desktop-poc-pubblici-per-le-cve-2024-
 https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotto-cisco
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-53
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-sqlite
+https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-21
+https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-16
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-schneider-electric-12
+https://www.acn.gov.it/portale/w/ivanti-june-security-update-1
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-typo3-cms
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-spring-3
