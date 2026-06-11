@@ -1,5 +1,3 @@
-https://darkwebinformer.com/argentine-healthcare-provider-swiss-medical-listed-in-alleged-458k-record-member-data-sale/
-https://darkwebinformer.com/root-in-one-request-pre-auth-rce-in-marimo-cve-2026-39987/
 https://darkwebinformer.com/australian-workplace-catering-platform-hampr-hit-by-alleged-360k-record-leak/
 https://darkwebinformer.com/threat-actor-claims-to-sell-live-web-shell-access-to-a-nasa-web-application/
 https://darkwebinformer.com/threat-actor-claims-to-leak-an-inegi-mexico-database-dump-122k-businesses-30k-pii-records/
@@ -28,3 +26,5 @@ https://darkwebinformer.com/h1-co-data-breach-2m-medical-professional-records-le
 https://darkwebinformer.com/hacker-claims-to-sell-533gb-of-french-and-european-healthcare-data-and-access/
 https://darkwebinformer.com/hacker-claims-to-deface-telcel-business-tracking-platform-and-alter-admin-accounts/
 https://darkwebinformer.com/alleged-capifrance-leak-exposes-data-on-786-000-people/
+https://darkwebinformer.com/hacker-claims-to-leak-data-on-389k-people-from-french-valuation-firm-jestimo/
+https://darkwebinformer.com/amazons-wickr-enterprise-admin-api-access-and-payment-keys-allegedly-leaked-on-hacking-forum/
