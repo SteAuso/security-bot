@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-comodo-internet-security
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-nei-componenti-x.org
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-qnap-8
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-splunk-3
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-oracle-1
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-16
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-palo-alto-networks-2
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/sap-security-patch-day-17
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-54
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-vim
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-squid
+https://www.acn.gov.it/portale/w/solarwinds-sfruttamento-attivo-in-rete-della-cve-2026-28318
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-vmware-5
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-gogs
+https://www.acn.gov.it/portale/w/check-point-sfruttamento-attivo-in-rete-della-cve-2026-50751
