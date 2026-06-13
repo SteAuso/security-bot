@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-sqlite
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-21
 https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-16
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-schneider-electric-12
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/operational-summary-aprile-2026
 https://www.acn.gov.it/portale/w/parallels-desktop-poc-pubblici-per-le-cve-2024-54189-cve-2025-31359-cve-2024-52561-e-cve-2024-36486
 https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotto-cisco
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-53
+https://www.acn.gov.it/portale/w/vulnerabilita-in-strongswan-2
