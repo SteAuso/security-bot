@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/ivanti-june-security-update-1
 https://www.acn.gov.it/portale/w/daemon-tools-lite-rilevato-sfruttamento-della-cve-2026-8398
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-misp-project-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mariadb
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/vulnerabilita-in-strongswan-2
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-sqlite
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-21
 https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-16
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-schneider-electric-12
