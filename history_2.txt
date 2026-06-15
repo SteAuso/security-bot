@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-componenti-uefi-shim
-https://www.acn.gov.it/portale/w/vulnerabilita-nel-modulo-cpython-bz2-
-https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-jenkins-1
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mongodb-7
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-55
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mongodb-7
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-http-server
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mariadb
 https://www.acn.gov.it/portale/w/progress-software-aggiornamenti-di-sicurezza-5
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-typo3-cms
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-spring-3
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-xen
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-openssl-1
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-dahua-1
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-11
