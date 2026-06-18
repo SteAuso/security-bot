@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-typo3-cms
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-xen
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-openssl-1
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-spring-3
 https://www.acn.gov.it/portale/w/joomla-jce-sfruttamento-attivo-in-rete-della-cve-2026-48907
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-simplehelp
 https://www.acn.gov.it/portale/w/campagna-di-phishing-a-tema-send-servizio-notifiche-digitali-
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/ivanti-june-security-update-1
 https://www.acn.gov.it/portale/w/poc-pubblici-per-le-cve-2026-12186-e-cve-2026-12187
 https://www.acn.gov.it/portale/w/aggiornamento-di-sicurezza-per-dispositivi-google-pixel-3
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-56
+https://www.acn.gov.it/portale/w/infinitered-campagna-di-distribuzione-malware-ai-danni-di-server-redcap-vulnerabili
+https://www.acn.gov.it/portale/w/rilevata-campagna-phishing-a-tema-fattura-elettronica-
+https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-8
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-9
