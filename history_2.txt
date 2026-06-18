@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-gl.inet
-https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-22
-https://www.acn.gov.it/portale/w/veeam-risolta-vulnerabilita-in-backup-replication
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-16
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-palo-alto-networks-2
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-erlang/otp
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-gimp
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-qnap-8
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-splunk-3
 https://www.acn.gov.it/portale/w/check-point-sfruttamento-attivo-in-rete-della-cve-2026-50751
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-zyxel-1
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-driver-di-stampa-ricoh
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-codeigniter
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-manageengine
+https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotto-litespeed-cpanel-plugin
