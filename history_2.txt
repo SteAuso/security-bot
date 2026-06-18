@@ -1,6 +1,3 @@
-https://www.acn.gov.it/portale/w/joomla-jce-sfruttamento-attivo-in-rete-della-cve-2026-48907
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-simplehelp
-https://www.acn.gov.it/portale/w/campagna-di-phishing-a-tema-send-servizio-notifiche-digitali-
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-dahua-1
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-11
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-componenti-uefi-shim
@@ -48,3 +45,6 @@ https://www.acn.gov.it/portale/w/infinitered-campagna-di-distribuzione-malware-a
 https://www.acn.gov.it/portale/w/rilevata-campagna-phishing-a-tema-fattura-elettronica-
 https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-8
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-9
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-xen
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-openssl-1
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-spring-3
