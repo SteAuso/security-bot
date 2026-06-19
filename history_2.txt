@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-canon-eos-utility
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-gogs
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-qnap-8
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-splunk-3
 https://www.acn.gov.it/portale/w/check-point-sfruttamento-attivo-in-rete-della-cve-2026-50751
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-55
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mongodb-7
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-vim
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-squid
+https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotto-cisco-1
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-cursor
