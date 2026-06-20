@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotto-litespeed-cpanel-plugin
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-16
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-26
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-apache-3
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/check-point-sfruttamento-attivo-in-rete-della-c
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-zyxel-1
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-driver-di-stampa-ricoh
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-codeigniter
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-manageengine
