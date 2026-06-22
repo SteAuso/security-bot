@@ -1,10 +1,3 @@
-https://darkwebinformer.com/tayara-data-breach-hacker-claims-2m-tunisian-user-records-for-sale/
-https://darkwebinformer.com/okcupid-data-scrape-hacker-claims-to-sell-35m-user-records/
-https://darkwebinformer.com/leboncoin-immobilier-data-leak-4m-french-property-listings-exposed/
-https://darkwebinformer.com/napoleon-perdis-data-breach-339k-australian-customer-records-leaked/
-https://darkwebinformer.com/zeemart-data-breach-510k-records-leaked-from-singapore-f-b-platform/
-https://darkwebinformer.com/ochre-health-data-breach-25k-patients-medical-records-for-sale/
-https://darkwebinformer.com/proprietes-privees-data-breach-3-2m-records-on-2-5m-people-leaked/
 https://darkwebinformer.com/h1-co-data-breach-2m-medical-professional-records-leaked/
 https://darkwebinformer.com/hacker-claims-to-sell-533gb-of-french-and-european-healthcare-data-and-access/
 https://darkwebinformer.com/hacker-claims-to-deface-telcel-business-tracking-platform-and-alter-admin-accounts/
@@ -28,3 +21,10 @@ https://darkwebinformer.com/brazilian-construction-information-company-piniweb-a
 https://darkwebinformer.com/around-16-800-records-allegedly-leaked-from-french-real-estate-professional-platform-ouestfrance-immo/
 https://darkwebinformer.com/new-darknet-markets/
 https://darkwebinformer.com/website-uptime/
+https://darkwebinformer.com/colombian-healthcare-platform-saludtools-allegedly-breached-2-3-tb-of-records-held-to-ransom/
+https://darkwebinformer.com/argentine-telemedicine-platform-consultoriomovil-allegedly-breached-1-73-tb-held-to-ransom/
+https://darkwebinformer.com/over-100-000-records-allegedly-exposed-in-multiple-magelang-city-government-leaks/
+https://darkwebinformer.com/around-318-000-student-records-including-minors-and-facial-photos-allegedly-leaked-from-frances-region-occitanie/
+https://darkwebinformer.com/indian-food-delivery-app-deliware-allegedly-breached-exposing-user-data-tokens-and-stripe-keys/
+https://darkwebinformer.com/us-stock-market-forum-stockaholics-allegedly-breached-member-database-leaked/
+https://darkwebinformer.com/european-real-estate-crm-whise-allegedly-breached-over-40-million-records-leaked/
