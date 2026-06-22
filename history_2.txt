@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-54
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-55
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-mongodb-7
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-vim
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-squid
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-simplehelp
 https://www.acn.gov.it/portale/w/campagna-di-phishing-a-tema-send-servizio-notifiche-digitali-
 https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-8
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-9
+https://www.acn.gov.it/portale/w/rilevate-nuove-vulnerabilita-in-jenkins-1
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-nginx
