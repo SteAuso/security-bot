@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-zyxel-1
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-driver-di-stampa-ricoh
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-splunk-3
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-codeigniter
 https://www.acn.gov.it/portale/w/operational-summary-maggio-2026
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodo
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-cursor
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-canon-eos-utility
 https://www.acn.gov.it/portale/w/autodesk-rilevata-vulnerabilita-in-fusion-desktop
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-misp-project
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-grafana-5
