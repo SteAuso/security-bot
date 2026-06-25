@@ -1,8 +1,3 @@
-https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-20
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-nginx
-https://www.acn.gov.it/portale/w/clickfix-campagna-distribuisce-codice-malevolo
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-squid
-https://www.acn.gov.it/portale/w/rilevata-nuova-vulnerabilita-in-erlang-plug
 https://www.acn.gov.it/portale/w/sanata-vulnerabilita-prodotti-tp-link
 https://www.acn.gov.it/portale/w/vulnerabilita-in-libssh2
 https://www.acn.gov.it/portale/w/rilevato-sfruttamento-di-vulnerabilita-in-prodotto-cisco-1
@@ -48,3 +43,8 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-flowise
 https://www.acn.gov.it/portale/w/operational-summary-aprile-2026
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-craft-cms
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-papercut
+https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-8
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-9
+https://www.acn.gov.it/portale/w/aomei-disponibili-poc-pubblici-per-le-cve-2026-12778-cve-2026-12779-e-cve-2026-12780
+https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-prodotti-mitel-1
+https://www.acn.gov.it/portale/w/joomla-jce-sfruttamento-attivo-in-rete-della-cve-2026-48907
