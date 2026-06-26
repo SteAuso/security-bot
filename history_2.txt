@@ -1,6 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevata-campagna-phishing-a-tema-fattura-elettronica-
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-flowise
-https://www.acn.gov.it/portale/w/operational-summary-aprile-2026
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-craft-cms
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-papercut
 https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-8
@@ -48,3 +45,6 @@ https://www.acn.gov.it/portale/w/easeus-poc-pubblici-per-il-prodotto-partition-m
 https://www.acn.gov.it/portale/w/node-js-risolte-molteplici-vulnerabilita
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-nifi
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-cacti-1
+https://www.acn.gov.it/portale/w/avast-disponibile-poc-pubblico-per-la-cve-2025-71326
+https://www.acn.gov.it/portale/w/fortibleed-esposizione-di-credenziali-ssl-vpn-associate-a-dispositivi-fortinet-esposti-su-internet
+https://www.acn.gov.it/portale/w/cisco-cucm-disponibile-poc-per-lo-sfruttamento-di-vulnerabilita
