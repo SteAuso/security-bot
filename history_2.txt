@@ -1,9 +1,3 @@
-https://www.acn.gov.it/portale/w/avast-disponibile-poc-pubblico-per-la-cve-2025-71326
-https://www.acn.gov.it/portale/w/fortibleed-esposizione-di-credenziali-ssl-vpn-associate-a-dispositivi-fortinet-esposti-su-internet
-https://www.acn.gov.it/portale/w/cisco-cucm-disponibile-poc-per-lo-sfruttamento-di-vulnerabilita
-https://www.acn.gov.it/portale/w/aggiornamento-di-sicurezza-per-dispositivi-google-pixel-3
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-56
-https://www.acn.gov.it/portale/w/infinitered-campagna-di-distribuzione-malware-ai-danni-di-server-redcap-vulnerabili
 https://www.acn.gov.it/portale/w/rilevata-campagna-phishing-a-tema-fattura-elettronica-
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-flowise
 https://www.acn.gov.it/portale/w/operational-summary-aprile-2026
@@ -48,3 +42,9 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-qnap
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-drupal-core
 https://www.acn.gov.it/portale/w/rilevata-nuova-vulnerabilita-in-hp-accessory-wmi-provider
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-17
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-ubiquiti
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-atlassian-1
+https://www.acn.gov.it/portale/w/easeus-poc-pubblici-per-il-prodotto-partition-master
+https://www.acn.gov.it/portale/w/node-js-risolte-molteplici-vulnerabilita
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-nifi
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-cacti-1
