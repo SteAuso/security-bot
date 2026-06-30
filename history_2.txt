@@ -1,9 +1,3 @@
-https://www.acn.gov.it/portale/w/zoho-sanata-vulnerabilita-in-diversi-prodotti
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-apache-3
-https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-mozilla-1
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-qnap
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-drupal-core
-https://www.acn.gov.it/portale/w/rilevata-nuova-vulnerabilita-in-hp-accessory-wmi-provider
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-17
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-ubiquiti
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-atlassian-1
@@ -48,3 +42,9 @@ https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-prodotti-spring-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-jetbrains-5
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-58
 https://www.acn.gov.it/portale/w/operational-summary-maggio-2026
+https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-android-15
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-gimp
+https://www.acn.gov.it/portale/w/gogs-disponibili-poc-per-lo-sfruttamento-di-nuove-vulnerabilita
+https://www.acn.gov.it/portale/w/sanate-vulnerabilita-in-mastodon
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-libexpat
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-go
