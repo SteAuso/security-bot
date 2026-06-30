@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/aomei-disponibili-poc-pubblici-per-le-cve-2026-12778-cve-2026-12779-e-cve-2026-12780
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-prodotti-mitel-1
 https://www.acn.gov.it/portale/w/joomla-jce-sfruttamento-attivo-in-rete-della-cve-2026-48907
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-squid
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-flowise
 https://www.acn.gov.it/portale/w/operational-summary-aprile-2026
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-craft-cms
 https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-papercut
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-simplehelp
