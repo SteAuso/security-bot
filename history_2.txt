@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/easeus-poc-pubblici-per-il-prodotto-partition-master
-https://www.acn.gov.it/portale/w/node-js-risolte-molteplici-vulnerabilita
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-nifi
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-cacti-1
 https://www.acn.gov.it/portale/w/avast-disponibile-poc-pubblico-per-la-cve-2025-71326
 https://www.acn.gov.it/portale/w/fortibleed-esposizione-di-credenziali-ssl-vpn-associate-a-dispositivi-fortinet-esposti-su-internet
 https://www.acn.gov.it/portale/w/cisco-cucm-disponibile-poc-per-lo-sfruttamento-di-vulnerabilita
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-go
 https://www.acn.gov.it/portale/w/rilevata-nuova-vulnerabilita-in-hp-accessory-wmi-provider
 https://www.acn.gov.it/portale/w/zoho-sanata-vulnerabilita-in-diversi-prodotti
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-17
+https://www.acn.gov.it/portale/w/progress-software-aggiornamenti-di-sicurezza-5
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-flowise-1
+https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-citrix-10
+https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-17
