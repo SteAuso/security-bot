@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-papercut
-https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-simplehelp
 https://www.acn.gov.it/portale/w/aomei-disponibili-poc-pubblici-per-le-cve-2026-12778-cve-2026-12779-e-cve-2026-12780
 https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-7
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-14
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/avast-disponibile-poc-pubblico-per-la-cve-2025-
 https://www.acn.gov.it/portale/w/fortibleed-esposizione-di-credenziali-ssl-vpn-associate-a-dispositivi-fortinet-esposti-su-internet
 https://www.acn.gov.it/portale/w/cisco-cucm-disponibile-poc-per-lo-sfruttamento-di-vulnerabilita
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-27
+https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-prodotto-mozilla
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-elastic-2
