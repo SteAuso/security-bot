@@ -1,4 +1,3 @@
-https://darkwebinformer.com/argentine-telemedicine-platform-consultoriomovil-allegedly-breached-1-73-tb-held-to-ransom/
 https://darkwebinformer.com/over-100-000-records-allegedly-exposed-in-multiple-magelang-city-government-leaks/
 https://darkwebinformer.com/around-318-000-student-records-including-minors-and-facial-photos-allegedly-leaked-from-frances-region-occitanie/
 https://darkwebinformer.com/indian-food-delivery-app-deliware-allegedly-breached-exposing-user-data-tokens-and-stripe-keys/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/data-from-domain-registrar-and-host-netim-allegedly-
 https://darkwebinformer.com/libyan-civil-aviation-authority-allegedly-breached-300gb-of-aviation-data-advertised/
 https://darkwebinformer.com/logistics-conglomerate-grupo-atc-data-offered-for-sale-after-ransom-refused/
 https://darkwebinformer.com/broker-miyako-advertising-root-level-firewall-access-to-five-organizations-across-four-countries/
+https://darkwebinformer.com/your-smart-tv-might-be-working-for-cybercriminals-inside-googles-takedown-of-the-netnut-proxy-network/
