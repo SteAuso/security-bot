@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/ptc-windchill-e-flexplm-sfruttamento-attivo-in-rete-della-cve-2026-12569
 https://www.acn.gov.it/portale/w/sanata-vulnerabilita-prodotti-tp-link
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-nginx
 https://www.acn.gov.it/portale/w/clickfix-campagna-distribuisce-codice-malevolo
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/synology-risolte-vulnerabilita-in-mailplus-serv
 https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-prodotti-mitel-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-squid
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-20
+https://www.acn.gov.it/portale/w/joomla-jce-sfruttamento-attivo-in-rete-della-cve-2026-48907
