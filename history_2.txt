@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mariadb
-https://www.acn.gov.it/portale/w/autodesk-rilevata-vulnerabilita-in-fusion-desktop
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-misp-project
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-grafana-5
 https://www.acn.gov.it/portale/w/ubiquiti-rilevate-nuove-vulnerabilita-1
 https://www.acn.gov.it/portale/w/joomla-sp-page-builder-sfruttamento-attivo-in-rete-della-cve-2026-48908
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-cursor
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-nginx
 https://www.acn.gov.it/portale/w/clickfix-campagna-distribuisce-codice-malevolo
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-7
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-clamav-1
+https://www.acn.gov.it/portale/w/rilevata-nuova-vulnerabilita-in-erlang-plug
+https://www.acn.gov.it/portale/w/vulnerabilita-in-libssh2
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-tomcat-1
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-craft-cms
