@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-tomcat-1
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-craft-cms
 https://www.acn.gov.it/portale/w/autodesk-rilevata-vulnerabilita-in-fusion-desktop
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-misp-project
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/clickfix-campagna-distribuisce-codice-malevolo
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-7
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-clamav-1
 https://www.acn.gov.it/portale/w/rilevata-nuova-vulnerabilita-in-erlang-plug
+https://www.acn.gov.it/portale/w/vulnerabilita-in-libssh2
