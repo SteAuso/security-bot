@@ -1,4 +1,3 @@
-https://darkwebinformer.com/alleged-full-texas-parks-and-wildlife-database-offered-for-sale-after-confirmed-breach-of-3-1-million-records/
 https://darkwebinformer.com/leroy-merlin-spain-customer-database-of-nearly-55-000-records-allegedly-leaked/
 https://darkwebinformer.com/durango-state-education-department-allegedly-breached-exposing-records-of-thousands-of-primary-school-children/
 https://darkwebinformer.com/alleged-gov-co-colombia-leak-claims-4-3-million-records-but-the-posted-sample-is-german-taxpayer-data/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/culiacan-municipal-health-portal-breached-in-mexico-
 https://darkwebinformer.com/payment-firm-nayax-allegedly-fully-breached-actor-threatens-100tb-release-with-over-1-billion-card-records/
 https://darkwebinformer.com/french-medical-platform-follow-fr-data-offered-for-sale-over-2-million-patient-records-exposed/
 https://darkwebinformer.com/gitlost-shows-how-github-ai-agents-can-leak-private-repository-data/
+https://darkwebinformer.com/foxit-pdf-reader-rce-flaw-cve-2024-30326-highlights-pdf-attack-surface/
