@@ -1,4 +1,3 @@
-https://darkwebinformer.com/durango-state-education-department-allegedly-breached-exposing-records-of-thousands-of-primary-school-children/
 https://darkwebinformer.com/alleged-gov-co-colombia-leak-claims-4-3-million-records-but-the-posted-sample-is-german-taxpayer-data/
 https://darkwebinformer.com/us-electronics-wholesaler-flawireless-allegedly-breached-customer-and-order-database-leaked/
 https://darkwebinformer.com/canadian-clinic-well-health-kensington-medical-centres-allegedly-breached-307-000-patient-records-held-to-ransom/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/french-medical-platform-follow-fr-data-offered-for-s
 https://darkwebinformer.com/gitlost-shows-how-github-ai-agents-can-leak-private-repository-data/
 https://darkwebinformer.com/foxit-pdf-reader-rce-flaw-cve-2024-30326-highlights-pdf-attack-surface/
 https://darkwebinformer.com/assuranceamerica-data-breach-exposes-drivers-license-numbers-of-6-99-million-people/
+https://darkwebinformer.com/french-it-school-esgi-breached-over-26-000-student-enrollment-records-leaked/
