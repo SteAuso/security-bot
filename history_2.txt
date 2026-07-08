@@ -1,6 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-watchguard-firebox
-https://www.acn.gov.it/portale/w/vulnerabilita-in-beyondtrust-3
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mariadb
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-erlang/otp-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-10
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-apache-airflow-1
@@ -48,3 +45,6 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-clamav-1
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-open-ssh
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-componenti-x.org
 https://www.acn.gov.it/portale/w/kvm-poc-pubblico-per-lo-sfruttamento-della-cve-2026-53359
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-tomcat-1
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-craft-cms
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-asus
