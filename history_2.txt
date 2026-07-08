@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-nginx
-https://www.acn.gov.it/portale/w/clickfix-campagna-distribuisce-codice-malevolo
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-mozilla-7
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-clamav-1
 https://www.acn.gov.it/portale/w/rilevata-nuova-vulnerabilita-in-erlang-plug
 https://www.acn.gov.it/portale/w/vulnerabilita-in-libssh2
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-tomcat-1
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/aggiornamenti-di-sicurezza-apple-14
 https://www.acn.gov.it/portale/w/sap-security-patch-day-17
 https://www.acn.gov.it/portale/w/langflow-rilevato-lo-sfruttamento-in-rete-della-cve-2026-55255
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-ubiquiti-1
+https://www.acn.gov.it/portale/w/synology-risolte-vulnerabilita-in-mailplus-server-per-diskstation-manager
+https://www.acn.gov.it/portale/w/ptc-windchill-e-flexplm-sfruttamento-attivo-in-rete-della-cve-2026-12569
+https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-20
+https://www.acn.gov.it/portale/w/joomla-jce-sfruttamento-attivo-in-rete-della-cve-2026-48907
