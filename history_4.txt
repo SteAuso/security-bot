@@ -1,4 +1,3 @@
-https://darkwebinformer.com/play-ransomware-allegedly-claims-u-s-firm-j-j-gaming/
 https://darkwebinformer.com/colombian-poultry-company-avicola-el-madrono-allegedly-breached-860mb-of-data-leaked/
 https://darkwebinformer.com/brazilian-detran-sp-database-of-13-million-records-allegedly-leaked-for-free/
 https://darkwebinformer.com/dragonforce-ransomware-leaks-data-allegedly-stolen-from-u-s-healthcare-firm-vip-imaging/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/french-it-school-esgi-breached-over-26-000-student-e
 https://darkwebinformer.com/norway-arrests-28-in-dark-web-csam-crackdown-tied-to-monero-payments/
 https://darkwebinformer.com/thepha-district-public-health-office-in-thailand-breached-databases-dumped-and-server-access-offered/
 https://darkwebinformer.com/ghostapproval-flaw-exposes-trust-boundary-weakness-in-major-ai-coding-assistants/
+https://darkwebinformer.com/federal-prisoner-charged-with-stealing-290k-in-forfeited-cryptocurrency/
