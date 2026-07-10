@@ -1,9 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-watchguard-firebox
-https://www.acn.gov.it/portale/w/vulnerabilita-in-beyondtrust-3
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-erlang/otp-1
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-10
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-apache-airflow-1
-https://www.acn.gov.it/portale/w/ubiquiti-rilevate-nuove-vulnerabilita-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-qualcomm-9
 https://www.acn.gov.it/portale/w/joomla-sp-page-builder-sfruttamento-attivo-in-rete-della-cve-2026-48908
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-cursor
@@ -48,3 +42,9 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-open-ssh
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-apache-tomcat-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-componenti-x.org
 https://www.acn.gov.it/portale/w/kvm-poc-pubblico-per-lo-sfruttamento-della-cve-2026-53359
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-mariadb
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-craft-cms
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-asus
+https://www.acn.gov.it/portale/w/rogueplanet-risolta-la-vulnerabilita-in-microsoft-defender
+https://www.acn.gov.it/portale/w/cpython-rilevata-una-vulnerabilita-nel-modulo-html.parser
+https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-23
