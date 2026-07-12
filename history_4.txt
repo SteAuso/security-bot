@@ -1,4 +1,3 @@
-https://darkwebinformer.com/municipal-police-records-from-the-french-town-of-le-pontet-allegedly-leaked/
 https://darkwebinformer.com/french-tour-operator-pachatours-allegedly-breached-passport-payment-and-credential-data-exposed/
 https://darkwebinformer.com/one-post-to-rce-unauthenticated-code-execution-in-langflow-cve-2026-33017/
 https://darkwebinformer.com/data-from-domain-registrar-and-host-netim-allegedly-offered-for-sale-including-source-code-and-customer-records/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/former-ransomware-negotiator-sentenced-for-helping-b
 https://darkwebinformer.com/french-business-school-ppa-breached-nearly-294-000-records-of-students-alumni-and-prospects-leaked/
 https://darkwebinformer.com/french-baby-products-marketplace-bebeboutik-allegedly-breached-seller-portal-database-of-500-000-rows-leaked/
 https://darkwebinformer.com/dutch-police-suspect-local-accomplices-in-odido-breach-affecting-6-2-million-customers/
+https://darkwebinformer.com/ransomware-attack-update-july-11th-2026/
