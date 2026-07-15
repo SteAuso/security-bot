@@ -1,5 +1,3 @@
-https://darkwebinformer.com/pre-auth-access-control-bypass-in-beyondtrust-remote-support-and-pra-cve-2026-40138/
-https://darkwebinformer.com/adobe-coldfusion-flaw-cve-2026-48282-is-now-being-exploited-in-the-wild/
 https://darkwebinformer.com/tokyo-police-arrest-15-year-old-over-alleged-bandai-channel-cyberattack/
 https://darkwebinformer.com/when-the-password-check-fails-youre-in-the-hidden-admin-backdoor-in-tenda-router-firmware-cve-2026-11405/
 https://darkwebinformer.com/culiacan-municipal-health-portal-breached-in-mexico-minors-and-patients-medical-records-leaked/
@@ -28,3 +26,5 @@ https://darkwebinformer.com/welsh-doxbin-administrator-jailed-for-encouraging-sw
 https://darkwebinformer.com/brazilian-health-council-conasems-allegedly-breached-again-766-000-users-sensitive-data-leaked/
 https://darkwebinformer.com/u-s-indicts-three-russians-and-two-bulletproof-hosting-companies-over-62m-in-cybercrime-losses/
 https://darkwebinformer.com/ransomware-attack-update-july-14th-2026/
+https://darkwebinformer.com/romanian-land-registry-agency-ancpi-allegedly-breached-and-hit-with-ransomware-citizen-data-and-source-code-for-sale/
+https://darkwebinformer.com/unpatched-cursor-zero-day-lets-malicious-git-repositories-trigger-windows-code-execution/
