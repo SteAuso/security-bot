@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-watchguard-firebox
-https://www.acn.gov.it/portale/w/vulnerabilita-in-beyondtrust-3
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-10
-https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-23
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-zoom-2
 https://www.acn.gov.it/portale/w/mozilla-rilevato-sfruttamento-attivo-di-nuove-vulnerabilita
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-apache-airflow-1
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-craft-cms
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-asus
 https://www.acn.gov.it/portale/w/sonicwall-rilevato-sfruttamento-attivo-di-nuove-vulnerabilita
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-asus-1
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-erlang/otp-1
+https://www.acn.gov.it/portale/w/rogueplanet-risolta-la-vulnerabilita-in-microsoft-defender
+https://www.acn.gov.it/portale/w/cpython-rilevata-una-vulnerabilita-nel-modulo-html.parser
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-bitdefender
