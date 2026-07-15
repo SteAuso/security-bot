@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-metabase
-https://www.acn.gov.it/portale/w/kde-plasma-poc-pubblico-per-lo-sfruttamento-di-una-vulnerabilita
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-60
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-18
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-go-1
 https://www.acn.gov.it/portale/w/palo-alto-networks-risolte-vulnerabilita-in-pan-os-e-prisma-access
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-flowise-1
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-apache-airflow-1
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-qualcomm-9
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-zoom-2
 https://www.acn.gov.it/portale/w/mozilla-rilevato-sfruttamento-attivo-di-nuove-vulnerabilita
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-roundcube-webmail
+https://www.acn.gov.it/portale/w/joomla-sp-page-builder-sfruttamento-attivo-in-rete-della-cve-2026-48908
+https://www.acn.gov.it/portale/w/samsung-electronics-rilascia-aggiornamenti-di-sicurezza
+https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-plesk
