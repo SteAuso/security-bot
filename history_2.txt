@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-citrix-10
-https://www.acn.gov.it/portale/w/bitwarden-poc-pubblico-per-lo-sfruttamento-di-una-nuova-vulnerabilita
 https://www.acn.gov.it/portale/w/httplib2-poc-pubblico-per-lo-sfruttamento-della-cve-2026-59939
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-59
 https://www.acn.gov.it/portale/w/progress-software-aggiornamenti-di-sicurezza-5
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/kde-plasma-poc-pubblico-per-lo-sfruttamento-di-
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-60
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-18
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-metabase
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-go-1
+https://www.acn.gov.it/portale/w/palo-alto-networks-risolte-vulnerabilita-in-pan-os-e-prisma-access
