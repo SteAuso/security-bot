@@ -1,4 +1,3 @@
-https://darkwebinformer.com/when-the-password-check-fails-youre-in-the-hidden-admin-backdoor-in-tenda-router-firmware-cve-2026-11405/
 https://darkwebinformer.com/culiacan-municipal-health-portal-breached-in-mexico-minors-and-patients-medical-records-leaked/
 https://darkwebinformer.com/payment-firm-nayax-allegedly-fully-breached-actor-threatens-100tb-release-with-over-1-billion-card-records/
 https://darkwebinformer.com/french-medical-platform-follow-fr-data-offered-for-sale-over-2-million-patient-records-exposed/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/ransomware-attack-update-july-14th-2026/
 https://darkwebinformer.com/romanian-land-registry-agency-ancpi-allegedly-breached-and-hit-with-ransomware-citizen-data-and-source-code-for-sale/
 https://darkwebinformer.com/unpatched-cursor-zero-day-lets-malicious-git-repositories-trigger-windows-code-execution/
 https://darkwebinformer.com/slovak-fitness-brand-nebbia-allegedly-breached-over-32-000-customer-records-leaked-with-more-threatened/
+https://darkwebinformer.com/french-firefighters-federation-membership-platform-allegedly-breached-data-on-nearly-125-000-members-leaked/
