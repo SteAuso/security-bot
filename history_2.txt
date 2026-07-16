@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-erlang/otp-1
-https://www.acn.gov.it/portale/w/rogueplanet-risolta-la-vulnerabilita-in-microsoft-defender
 https://www.acn.gov.it/portale/w/cpython-rilevata-una-vulnerabilita-nel-modulo-html.parser
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-bitdefender
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-watchguard-firebox
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-18
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-schneider-electric-13
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-asus
 https://www.acn.gov.it/portale/w/kvm-poc-pubblico-per-lo-sfruttamento-della-cve-2026-53359
+https://www.acn.gov.it/portale/w/sonicwall-rilevato-sfruttamento-attivo-di-nuove-vulnerabilita
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-asus-1
