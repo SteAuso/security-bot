@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-clamav-1
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-open-ssh
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-vmware-6
-https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-24
 https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-18
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-schneider-electric-13
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-componenti-x.org
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/langflow-rilevato-lo-sfruttamento-in-rete-della
 https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-20
 https://www.acn.gov.it/portale/w/joomla-jce-sfruttamento-attivo-in-rete-della-cve-2026-48907
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-citrix-11
+https://www.acn.gov.it/portale/w/sap-security-patch-day-18
+https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-servicenow
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-nginx-1
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-28
