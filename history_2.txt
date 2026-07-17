@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-zoom-2
-https://www.acn.gov.it/portale/w/mozilla-rilevato-sfruttamento-attivo-di-nuove-vulnerabilita
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-roundcube-webmail
 https://www.acn.gov.it/portale/w/joomla-sp-page-builder-sfruttamento-attivo-in-rete-della-cve-2026-48908
 https://www.acn.gov.it/portale/w/samsung-electronics-rilascia-aggiornamenti-di-sicurezza
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-watchguard-firebox
 https://www.acn.gov.it/portale/w/vulnerabilita-in-beyondtrust-3
 https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-mediatek-10
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-23
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-apache-airflow-1
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-qualcomm-9
