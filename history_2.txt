@@ -1,5 +1,3 @@
-https://www.acn.gov.it/portale/w/palo-alto-networks-risolte-vulnerabilita-in-pan-os-e-prisma-access
-https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-metabase
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-62
 https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-17
 https://www.acn.gov.it/portale/w/bitwarden-poc-pubblico-per-lo-sfruttamento-di-una-nuova-vulnerabilita
@@ -48,3 +46,5 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-60
 https://www.acn.gov.it/portale/w/samsung-electronics-rilascia-aggiornamenti-di-sicurezza
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-plesk
 https://www.acn.gov.it/portale/w/sanata-vulnerabilita-in-ibm-websphere
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-su-gitlab-ce/ee-18
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-go-1
