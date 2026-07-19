@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-vmware-6
 https://www.acn.gov.it/portale/w/adobe-aggiornamenti-di-sicurezza-18
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-schneider-electric-13
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-asus
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-nginx-1
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-28
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-open-ssh
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-24
+https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-componenti-x.org
