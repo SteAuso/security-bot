@@ -1,6 +1,3 @@
-https://darkwebinformer.com/foxit-pdf-reader-rce-flaw-cve-2024-30326-highlights-pdf-attack-surface/
-https://darkwebinformer.com/assuranceamerica-data-breach-exposes-drivers-license-numbers-of-6-99-million-people/
-https://darkwebinformer.com/french-it-school-esgi-breached-over-26-000-student-enrollment-records-leaked/
 https://darkwebinformer.com/norway-arrests-28-in-dark-web-csam-crackdown-tied-to-monero-payments/
 https://darkwebinformer.com/thepha-district-public-health-office-in-thailand-breached-databases-dumped-and-server-access-offered/
 https://darkwebinformer.com/ghostapproval-flaw-exposes-trust-boundary-weakness-in-major-ai-coding-assistants/
@@ -28,3 +25,6 @@ https://darkwebinformer.com/brazilian-online-store-loja-negocios-digital-alleged
 https://darkwebinformer.com/one-namespace-string-to-kube-system-cross-namespace-privilege-escalation-in-kyverno-cve-2026-54523/
 https://darkwebinformer.com/brazilian-hospital-hospital-di-camp-allegedly-breached-patient-medical-data-leaked-in-staged-release/
 https://darkwebinformer.com/openssl-hollowbyte-flaw-lets-11-byte-tls-requests-exhaust-server-memory/
+https://darkwebinformer.com/georgian-court-systems-and-the-high-council-of-justice-allegedly-breached-5tb-of-judiciary-data-for-sale/
+https://darkwebinformer.com/bogota-mobility-secretariat-allegedly-breached-5-6gb-of-traffic-agent-and-citation-data-listed-for-500/
+https://darkwebinformer.com/hugging-face-breach-linked-to-autonomous-ai-agent-exposes-internal-datasets-and-credentials/
