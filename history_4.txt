@@ -1,5 +1,3 @@
-https://darkwebinformer.com/norway-arrests-28-in-dark-web-csam-crackdown-tied-to-monero-payments/
-https://darkwebinformer.com/thepha-district-public-health-office-in-thailand-breached-databases-dumped-and-server-access-offered/
 https://darkwebinformer.com/ghostapproval-flaw-exposes-trust-boundary-weakness-in-major-ai-coding-assistants/
 https://darkwebinformer.com/federal-prisoner-charged-with-stealing-290k-in-forfeited-cryptocurrency/
 https://darkwebinformer.com/former-ransomware-negotiator-sentenced-for-helping-blackcat-alphv-extort-u-s-victims/
@@ -28,3 +26,5 @@ https://darkwebinformer.com/openssl-hollowbyte-flaw-lets-11-byte-tls-requests-ex
 https://darkwebinformer.com/georgian-court-systems-and-the-high-council-of-justice-allegedly-breached-5tb-of-judiciary-data-for-sale/
 https://darkwebinformer.com/bogota-mobility-secretariat-allegedly-breached-5-6gb-of-traffic-agent-and-citation-data-listed-for-500/
 https://darkwebinformer.com/hugging-face-breach-linked-to-autonomous-ai-agent-exposes-internal-datasets-and-credentials/
+https://darkwebinformer.com/counting-below-zero-integer-underflow-to-system-in-the-windows-nt-kernel-cve-2026-42980/
+https://darkwebinformer.com/patching-is-not-enough-critical-sharepoint-deserialization-rce-under-active-exploitation-cve-2026-50522/
