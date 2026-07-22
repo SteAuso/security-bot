@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-splunk-4
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-fortinet-11
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-60
 https://www.acn.gov.it/portale/w/samsung-electronics-rilascia-aggiornamenti-di-sicurezza
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-21
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-zoom-2
 https://www.acn.gov.it/portale/w/wordpress-poc-pubblico-per-lo-sfruttamento-delle-cve-2026-60137-e-cve-2026-63030
 https://www.acn.gov.it/portale/w/mozilla-rilevato-sfruttamento-attivo-di-nuove-vulnerabilita
+https://www.acn.gov.it/portale/w/langflow-poc-pubblico-per-lo-sfruttamento-della-cve-2026-9198
