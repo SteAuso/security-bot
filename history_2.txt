@@ -1,4 +1,3 @@
-https://www.acn.gov.it/portale/w/rilevate-vulnerabilita-in-prodotti-qualcomm-9
 https://www.acn.gov.it/portale/w/wordpress-poc-pubblico-per-lo-sfruttamento-delle-cve-2026-60137-e-cve-2026-63030
 https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-zoom-2
 https://www.acn.gov.it/portale/w/mozilla-rilevato-sfruttamento-attivo-di-nuove-vulnerabilita
@@ -48,3 +47,4 @@ https://www.acn.gov.it/portale/w/cpython-rilevata-una-vulnerabilita-nel-modulo-h
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-bitdefender
 https://www.acn.gov.it/portale/w/rilevata-vulnerabilita-in-prodotti-zyxel-2
 https://www.acn.gov.it/portale/w/aggiornamenti-per-prodotti-siemens-23
+https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-63
