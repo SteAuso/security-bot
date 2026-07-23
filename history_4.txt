@@ -1,4 +1,3 @@
-https://darkwebinformer.com/french-legal-platform-litige-fr-allegedly-breached-nearly-595-000-users-data-exposed-through-access-control-flaws/
 https://darkwebinformer.com/ai-recruitment-platform-suitable-ai-allegedly-breached-over-15-000-applicants-data-leaked-in-a-partial-dump/
 https://darkwebinformer.com/russian-state-sponsored-actors-target-vulnerable-routers-across-critical-infrastructure/
 https://darkwebinformer.com/cisa-adds-cisco-ios-flaw-exploited-by-russian-fsb-actors-to-kev-catalog/
@@ -28,3 +27,4 @@ https://darkwebinformer.com/revolutionparts-database-allegedly-leaked-5-1-millio
 https://darkwebinformer.com/bebunk-database-allegedly-leaked-12-324-banking-customers-with-ibans-and-kyc-records-exposed/
 https://darkwebinformer.com/b9-neobank-data-allegedly-scraped-36-000-records-with-partial-ssns-and-dates-of-birth-posted/
 https://darkwebinformer.com/bolivias-ministry-of-health-sssro-database-allegedly-leaked-41-406-records-on-rural-health-interns-published/
+https://darkwebinformer.com/pokemongym-nl-database-allegedly-leaked-19-600-player-accounts-and-private-messages-published/
