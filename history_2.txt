@@ -1,7 +1,3 @@
-https://www.acn.gov.it/portale/w/langflow-rilevato-lo-sfruttamento-in-rete-della-cve-2026-55255
-https://www.acn.gov.it/portale/w/vulnerabilita-in-prodotti-citrix-11
-https://www.acn.gov.it/portale/w/sap-security-patch-day-18
-https://www.acn.gov.it/portale/w/risolta-vulnerabilita-in-servicenow
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-nei-prodotti-nginx-1
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-prodotti-cisco-28
 https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-open-ssh
@@ -48,3 +44,7 @@ https://www.acn.gov.it/portale/w/risolte-vulnerabilita-in-google-chrome-61
 https://www.acn.gov.it/portale/w/vulnerabilita-in-solarwinds-5
 https://www.acn.gov.it/portale/w/aggiornamenti-per-isc-bind-6
 https://www.acn.gov.it/portale/w/critical-patch-update-di-oracle-9
+https://www.acn.gov.it/portale/w/vulnerabilita-in-tenable-nessus
+https://www.acn.gov.it/portale/w/ivanti-july-security-update-1
+https://www.acn.gov.it/portale/w/notepad-poc-pubblici-per-lo-sfruttamento-delle-cve-2026-57233-cve-2026-52886-e-cve-2026-54758
+https://www.acn.gov.it/portale/w/aggiornamenti-mensili-microsoft-22
