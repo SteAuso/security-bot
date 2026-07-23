@@ -1,5 +1,3 @@
-https://darkwebinformer.com/dutch-police-suspect-local-accomplices-in-odido-breach-affecting-6-2-million-customers/
-https://darkwebinformer.com/ransomware-attack-update-july-11th-2026/
 https://darkwebinformer.com/french-legal-platform-litige-fr-allegedly-breached-nearly-595-000-users-data-exposed-through-access-control-flaws/
 https://darkwebinformer.com/ai-recruitment-platform-suitable-ai-allegedly-breached-over-15-000-applicants-data-leaked-in-a-partial-dump/
 https://darkwebinformer.com/russian-state-sponsored-actors-target-vulnerable-routers-across-critical-infrastructure/
@@ -28,3 +26,5 @@ https://darkwebinformer.com/dutch-police-seize-motherless-servers-in-internation
 https://darkwebinformer.com/rapidfort-allegedly-breached-in-canisterworm-campaign-569gb-across-48-s3-buckets-listed-for-40-000/
 https://darkwebinformer.com/revolutionparts-database-allegedly-leaked-5-1-million-customer-records-posted-for-free/
 https://darkwebinformer.com/bebunk-database-allegedly-leaked-12-324-banking-customers-with-ibans-and-kyc-records-exposed/
+https://darkwebinformer.com/b9-neobank-data-allegedly-scraped-36-000-records-with-partial-ssns-and-dates-of-birth-posted/
+https://darkwebinformer.com/bolivias-ministry-of-health-sssro-database-allegedly-leaked-41-406-records-on-rural-health-interns-published/
